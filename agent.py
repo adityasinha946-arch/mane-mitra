@@ -21,7 +21,7 @@ FALLBACK_MODELS = ["gemini-flash-latest", "gemini-flash-lite-latest"]
 _SKIP = ("image", "tts", "audio", "live", "embedding", "robotics", "computer", "exp", "vision", "thinking", "learnlm", "gemma", "customtools")
 _model_cache: dict[str, list[str]] = {}
 _cooldown: dict[str, float] = {}  # model -> time until which it is skipped (it was busy or too slow)
-COOLDOWN_SECONDS = 600
+COOLDOWN_SECONDS = 120
 
 
 def _rank(name: str) -> tuple:
@@ -199,7 +199,9 @@ def answer(api_key: str, index: Index, question: str, history: list[dict],
             automatic_function_calling=types.AutomaticFunctionCallingConfig(maximum_remote_calls=10),
         )
 
-    auto = available_models(client, api_key)
+    # Never fall back to a Flash-Lite model on its own: for legal answers it is better to say "busy, try again"
+    # than to answer with a weaker model. A Lite model is used only if the user picks it by hand.
+    auto = [x for x in available_models(client, api_key) if "lite" not in x]
     # A model chosen by the user goes first, but the others stay as fall-backs if it is busy or unavailable.
     candidates = ([model] + [x for x in auto if x != model])[:5] if model else auto[:5]
     now = time.time()
@@ -255,4 +257,5 @@ def answer(api_key: str, index: Index, question: str, history: list[dict],
                     "The free Gemini quota is busy right now (rate limit). Wait about a minute and ask again. "
                     f"Models tried: {', '.join(candidates)}. Last error: {last_err}")
     return Turn("", list(trace), "", round(time.time() - t0, 1),
-                f"No Gemini model answered. Models tried: {', '.join(candidates)}. Last error: {last_err}")
+                "The Gemini models are busy right now. I did not switch to a weaker model, because legal answers need the "
+                f"stronger ones. Please wait about a minute and ask again. (Models tried: {', '.join(candidates)}. Last error: {last_err})")
