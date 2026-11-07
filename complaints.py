@@ -73,6 +73,9 @@ def _rrc(pk: str, mk: str) -> dict:
         latest = sorted(rows, key=lambda r: r["RRC_DATE"], reverse=True)[:3]
         return {"certificates": len(rows), "amount_rs": sum(_int(r["AMOUNT_RS"]) for r in rows),
                 "marked_recovered": len(rec), "recovered_amount_rs": sum(_int(r["AMOUNT_RS"]) for r in rec),
+                "not_marked_recovered": len(rows) - len(rec),
+                "wording_note": "Say 'not marked as recovered on the K-RERA list'. Do NOT say pending, unpaid or defaulted: "
+                                "the site's list does not say why a certificate is not marked recovered.",
                 "latest": [{"complaint_no": r["COMPLAINT_NO"], "project": r["PROJECT"], "amount_rs": _int(r["AMOUNT_RS"]),
                             "rrc_date": r["RRC_DATE"], "recovered": r["RECOVERED"]} for r in latest]}
     return {"against_this_project": summ(by_project), "against_this_promoter_all_projects": summ(by_promoter)}
