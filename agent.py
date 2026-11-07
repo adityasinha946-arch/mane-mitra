@@ -4,6 +4,7 @@ Every tool call is recorded in a trace that the app shows on screen.
 """
 from __future__ import annotations
 
+import json
 import time
 from dataclasses import dataclass, field
 
@@ -170,6 +171,72 @@ def _preload_for_review(index: Index, trace: list[dict]) -> str:
     return "\n\n".join(blocks)
 
 
+
+# ---- Pre-retrieval for ordinary questions: find the likely sections in code, so Gemini needs only ONE request ----
+import re as _re
+
+_TOPICS = [
+    (r"delay|possession|handover|handing|ಹಸ್ತಾಂತರ|ತಡ|ವಿಳಂಬ|ಸ್ವಾಧೀನ", [("act", "18", ""), ("rules", "16", ""), ("rules", "17", "")],
+     "promoter fails to give possession refund interest withdraw monthly interest delay"),
+    (r"booking|advance|deposit|token|ಮುಂಗಡ|ಬುಕಿಂಗ್", [("act", "13", "")],
+     "booking advance ten per cent agreement for sale registered Schedule C"),
+    (r"interest|mclr|ಬಡ್ಡಿ", [("rules", "16", ""), ("act", "2", "za")], "rate of interest highest marginal cost of lending rate plus two percent"),
+    (r"defect|structural|warrant|ದೋಷ", [("act", "14", "")], "structural defect five years possession rectify thirty days"),
+    (r"plan|alter|modif|ಯೋಜನೆ|ಬದಲಾವಣೆ", [("act", "14", "")], "alteration sanctioned plans consent allottees two-thirds"),
+    (r"carpet|super built|built-up|area|ವಿಸ್ತೀರ್ಣ", [("act", "2", "k")], "carpet area net usable floor area variation three percent"),
+    (r"register|registration|rera number|ನೋಂದಣಿ", [("act", "3", "")], "promoter registration real estate project advertise sell"),
+    (r"complain|dispute|arbitrat|ದೂರು", [("act", "31", ""), ("rules", "29", "")], "complaint Authority adjudicating officer Form N Form O"),
+    (r"cancel|terminate|forfeit|refund|ರದ್ದು", [("act", "18", ""), ("rules", "17", "")], "cancellation termination default notice forfeit booking amount refund sixty days"),
+]
+_REGNO = _re.compile(r"PRM/KA/RERA/[A-Za-z0-9/]+", _re.I)
+
+
+def _preload_for_question(index: Index, question: str, trace: list[dict]) -> str:
+    t0 = time.time()
+    blocks, shown, seen_ref, seen_pid = [], [], set(), set()
+    q = question.lower()
+    queries = [question]
+    stamp = bool(_re.search(r"stamp|ಸ್ಟ್ಯಾಂಪ್|ಮುದ್ರಾಂಕ", q))  # stamp duty is not in the sources: do not pull registration text
+    for pattern, reads, eng_query in _TOPICS:
+        if stamp and "register" in pattern:
+            continue
+        if _re.search(pattern, q):
+            queries.append(eng_query)
+            for kind, num, clause in reads:
+                ref = (kind, num, clause)
+                if ref in seen_ref:
+                    continue
+                seen_ref.add(ref)
+                r = index.lookup(kind, num, clause)
+                if r.get("found"):
+                    blocks.append(f"[{r['reference']}, p.{r['page']} ({r['authority']})]\n{r['text'][:2200]}")
+                    shown.append({"id": r["reference"], "source": r["source"], "authority": r["authority"],
+                                  "where": f"p.{r['page']}", "text": r["text"]})
+    for i, qq in enumerate(queries[:4]):
+        for p, _ in index.search(qq, k=3 if i == 0 else 2):
+            if p.pid in seen_pid:
+                continue
+            seen_pid.add(p.pid)
+            blocks.append(f"[{p.authority}: {p.source}, {p.page}]\n{p.text}")
+            shown.append(_short(p))
+    text = "\n\n".join(blocks)[:16000]
+    if shown:
+        trace.append({"tool": "preload_official_passages", "args": {"topics": max(0, len(queries) - 1)},
+                      "result": {"passages": len(shown)}, "passages": shown,
+                      "via": "local retrieval (BM25) + exact lookup", "ms": int((time.time() - t0) * 1000)})
+    return text
+
+
+def _preload_registration(question: str, trace: list[dict]) -> str:
+    m = _REGNO.search(question)
+    if not m:
+        return ""
+    data, info = mcp_bridge.call("check_registration", {"registration_no": m.group(0)})
+    trace.append({"tool": "check_registration", "args": {"registration_no": m.group(0)},
+                  "result": {"found": data.get("found"), "matches": len(data.get("matches", []))}, "data": data, **info})
+    return "<register_lookup_result>\n" + json.dumps(data, ensure_ascii=False) + "\n</register_lookup_result>"
+
+
 def answer(api_key: str, index: Index, question: str, history: list[dict],
            agreement_text: str = "", model: str = "") -> Turn:
     trace: list[dict] = []
@@ -188,6 +255,16 @@ def answer(api_key: str, index: Index, question: str, history: list[dict],
             "Use these passages (cite them as shown) and call a tool only if something is missing.\n\n"
             "User's question: " + question
         )
+    else:
+        pre_text = _preload_for_question(index, question, pre_trace)
+        reg_text = _preload_registration(question, pre_trace)
+        if pre_text or reg_text:
+            user_text = (
+                "<official_passages_already_retrieved>\n" + pre_text + "\n</official_passages_already_retrieved>\n"
+                + (reg_text + "\n" if reg_text else "")
+                + "Use these passages and results (cite them exactly as labelled). Call a tool only if something needed is missing.\n\n"
+                "User's question: " + question
+            )
     contents = _history_contents(history) + [types.Content(role="user", parts=[types.Part(text=user_text)])]
 
     def make_config(thinking: bool):
@@ -210,6 +287,7 @@ def answer(api_key: str, index: Index, question: str, history: list[dict],
     t0 = time.time()
     last_err = ""
     rate_limited = False
+    first_real_err = ""
     skipped: list[str] = []
 
     def call(m: str, thinking: bool):
@@ -239,12 +317,14 @@ def answer(api_key: str, index: Index, question: str, history: list[dict],
                     return Turn("", [], m, 0, "The Gemini API key is missing or invalid. Check the key in the app settings.")
                 if code == 429:
                     rate_limited = True
+                    first_real_err = first_real_err or f"{m}: {str(e)[:300]}"
                     _cooldown[m] = time.time() + 60
                 elif code not in (400, 404):
                     return Turn("", list(trace), m, round(time.time() - t0, 1), f"Gemini error: {e}")
                 break  # 404 / 429 / 400: go to the next model
             except Exception as e:  # noqa: BLE001  (503 busy, timeouts, network)
                 last_err = f"{m}: {type(e).__name__}: {str(e)[:200]}"
+                first_real_err = first_real_err or last_err
                 busy = isinstance(e, errors.ServerError)
                 if busy and attempt == 1:
                     time.sleep(2)
@@ -255,7 +335,7 @@ def answer(api_key: str, index: Index, question: str, history: list[dict],
     if rate_limited:
         return Turn("", list(trace), "", round(time.time() - t0, 1),
                     "The free Gemini quota is busy right now (rate limit). Wait about a minute and ask again. "
-                    f"Models tried: {', '.join(candidates)}. Last error: {last_err}")
+                    f"Models tried: {', '.join(candidates)}. Main reason: {first_real_err or last_err}")
     return Turn("", list(trace), "", round(time.time() - t0, 1),
                 "The Gemini models are busy right now. I did not switch to a weaker model, because legal answers need the "
-                f"stronger ones. Please wait about a minute and ask again. (Models tried: {', '.join(candidates)}. Last error: {last_err})")
+                f"stronger ones. Please wait about a minute and ask again. (Models tried: {', '.join(candidates)}. Main reason: {first_real_err or last_err})")
