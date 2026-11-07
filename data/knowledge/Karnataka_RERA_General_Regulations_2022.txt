@@ -1,0 +1,3021 @@
+SOURCE: Karnataka RERA (General) Regulations, 2022. Original: RERA_REGULATIONS_2022.pdf (rera.karnataka.gov.in). Text extracted from the PDF text layer.
+
+[Page 1]
+                                          ೇಷ ಾಜ ಪ             ೆ
+ ¨sÁUÀ – 4ಎ                        , 28           2022(            06        1944)           . 541
+ Part – IVA   BENGALURU,   FRIDAY , 28, OCTOBER, 2022( KARTHIKA , 06, SHAKAVARSHA, 1944)   No. 541
+
+                       GOVERNMENT OF KARNATAKA
+
+No. DOH 27 RERA 2019                                  Karnataka Government Secretariat,
+                                                               Vikasa Soudha,
+                                                        Bengaluru, dated:27.10.2022.
+                                     NOTIFICATION
+     In exercise of the powers conferred by section 85 of the Real Estate
+(Regulation and Development) Act, 2016 (Central Act 16 of 2016), the Karnataka
+Real Estate Regulatory Authority, with the approval of the State Government,
+hereby makes the following regulations, namely: –
+
+                                      REGULATIONS
+
+      1. Title, commencement and application.– (1) These regulations may be
+called the Karnataka Real Estate Regulatory Authority (General) Regulations,
+2022.
+
+     (2) They shall come into force on the date of their publication in the official
+Gazette.
+
+
+      (3) These regulations shall apply to all matters falling within the jurisdiction
+of the Authority in the state of Karnataka.
+
+      2. Definitions.– (1) In these regulations, unless the context otherwise
+requires, –
+
+      (a) “Act” means the Real Estate (Regulation and Development) Act, 2016
+(Central Act 16 of 2016);
+
+                                               (1)
+
+[Page 2]
+                                         2
+      (b) “Address for service” means the address furnished by the party or
+applicant or his authorized agent or legal practitioner or chartered accountant or
+company secretary or cost accountant, at which service of the summons, notice or
+other processes may be effected;
+      (c) “Adjudication” means the process of arriving at decisions on complaints
+submitted to the Authority or the Adjudicating Officer under section 31 of the Act;
+
+
+      (d) “Authority” means the Karnataka Real Estate Regulatory Authority
+established under sub-section (1) of section 20 of the Act;
+
+
+      (e) "Certified copy" means as defined under section 76 of the Indian Evidence
+Act, 1872 (Central Act 1 of 1872);
+
+       (f) “Code” means the Code of Civil Procedure, 1908 (Central Act 5 of 1908)
+in relation to civil matters and the Code of Criminal Procedure, 1973 (Central Act
+2 of 1974) in relation to criminal matters;
+
+
+     (g) "Complainant" means a person who has filed a complaint before the
+Authority or the adjudicating officer under section 31 or 71 of the Act;
+
+
+     (h) “Consultant” means and includes any person who may be appointed as
+such to assist the Authority on any matter required to be dealt with, by the
+Authority under the Act, and rules and regulations made there under;
+
+
+      (i) “Form” means the form appended to these regulations;
+
+
+      (j) “Media" means and include newspapers, magazines, periodicals, journals,
+radio, television, internet and other social media platforms;
+
+
+      (k) “No Lien Account” means a Bank Account without any third party rights
+or security interests;
+
+
+      (l) “No Lien fixed deposit” means the fixed deposit without any third party
+rights or security interests;
+
+
+      (m) “Officer” means an officer of the Authority;
+
+     (n) “RERA Bank Account” means the separate Bank Account to be
+maintained by the promoter in the local branch of a scheduled bank, where the
+
+[Page 3]
+                                          3
+project is going on, as per sub-clause (D) of clause (l ) of sub-section (2) of section
+4 of the Act;
+
+      (o) “Rules” mean the Real Estate (Regulation and Development) Rules, 2017;
+and
+
+      (p)   “Secretary” means the secretary of the Authority;
+
+     (2) Words and expressions used but not defined in these regulations shall
+have the same meanings assigned to them in the Real Estate (Regulation and
+Development) Act, 2016 (Central Act 16 of 2016) and rules made thereunder.
+
+      3. Formats of Certificates.- (1) The promoter shall designate a chartered
+accountant, architect and engineer who shall issue certificates for the project to
+enable the withdrawal of amounts from the RERA Bank Account and for work
+completion and such designated chartered accountant, architect or engineer shall
+not be removed, without prior concurrence of the Authority. The certificates shall
+be issued in the following manner, namely:-
+
+ (i) The certificate to be issued by the chartered accountant, project architect and
+project engineer, in practice for post-registration of the real estate project shall be
+in Form-1, Form-2 and Form-3 respectively;
+
+(ii)  the certificate required to be issued by the chartered accountant, project
+architect and project engineer in practice, for quarterly updates of the real estate
+project shall be in Form-4, Form-5 and Form-6 respectively;
+
+(iii) the annual audit report on statement of accounts shall be in Form-7, which
+shall be issued in accordance with clause (l) of sub-section (2) of section 4 of the
+Act and shall be certified and signed by the statutory auditor of the promoter’s
+enterprise;
+
+(iv) application for the change of RERA Bank Account shall be in Form-B1;
+
+(v) the certificate to be issued by the chartered accountant for change of the
+RERA Bank Account shall be in Form-B1-A;
+
+(vi) the certificate to be issued by the existing Bank for change of RERA Bank
+Account shall be in Form-B2;
+
+(vii) the certificate to be issued by the proposed Bank for transfer of funds to RERA
+Bank Account shall be in Form-B3;
+
+(viii) the certificate to be issued by the promoter on confirmation of change of RERA
+Bank Account shall be in Form-B4;
+
+[Page 4]
+                                          4
+(ix) the certificate to be issued by the project architect in practice for project
+extension about status of work and pending work shall be in Form-F1;
+
+(x) the certificate to be issued by the chartered accountant in practice for project
+extension about fund required shall be in Form–F2;
+
+(xi) the certificate to be issued by the project engineer in practice for project
+extension about status of work and pending work shall be in Form–F3;
+
+(xii) the consent letter from the allottees for modification of the sanctioned plan
+shall be in Form–M
+
+(xiii) the application for change of project name, address, RERA Bank Account
+details, promoter name, address or e-mail address or mobile number shall be in
+Form–U;; and
+
+(xiv)   the application for change of the promoter shall be in Form–V.
+
+      Explanation: The chartered accountant certifying the progress of the
+registered real estate project for the purpose of withdrawal of amounts from
+
+     the RERA Bank Account shall be a different entity than the chartered
+accountant who is statutory auditor of the promoter’s enterprise.
+
+       (2) If the Form–7 issued by the statutory auditor reveals that any certificate
+issued by the chartered accountant, project architect or project engineer has false
+or incorrect information, the amount collected for a particular project has not been
+utilised for the project or withdrawals are not commensurate with the development
+of the project, the Authority shall, apart from taking action against the promoter
+under the Act, and rules and regulations made there under, shall also bring the
+matter to the concerned respective regulatory body of the said chartered
+accountant, architect or project engineer, for necessary penal action against them.
+
+      (3) The sanctioned plans and lay-out plans, along with the specifications
+approved by the competent authority, shall be prominently displayed by the
+promoter at the project site and the registered office of the promoter. Non
+compliance of this shall be deemed to be contravention under cause (a) of sub-
+section (1) of section 7 of the Act and shall be liable for penalty under section 61 of
+the Act.
+
+     4. Language of the Authority.- The language of the Authority shall be
+Kannada and English.
+
+     5. Seal and emblem.- The Authority shall have its own official seal and
+emblem and any document requiring authentication by the Authority shall be
+
+[Page 5]
+                                        5
+issued under the seal of the Authority and shall be signed by the secretary or any
+other officer authorised by the Chairperson on this behalf.
+
+      6. Computation of time.- (1) Where a period of time and date from a
+specified day, act or event is specified by or allowed under these regulations for
+doing an act or taking a proceeding, the time shall be reckoned exclusive of the
+said day or of the day of the act or event from which the time runs.
+
+       (2) Where the time specified by or allowed under these regulations for doing
+an act or taking a proceeding expires on a holiday or on a day on which the office
+of the Authority is closed, the act may be done or the proceeding may be taken on
+the next working day or on the day on which the office is open.
+
+
+     7. Meeting.- (1) The Authority shall meet, as and when it is deemed
+necessary to transact its business, but not less than four times in a year.
+
+     (2) The Chairperson or in his absence, by a member nominated by the
+Chairperson in this behalf, shall fix the date, time and place of a meeting of the
+Authority and approve the subjects of agenda for the meeting.
+
+
+       (3) The Chairperson shall be required to convene a meeting of the Authority
+if any two members request for such a meeting, in writing:
+
+      Provided that, if the Chairperson is not available, any two members may, in
+writing, require the designated officer to convene such meeting of the Authority.
+      (4) Any business of the Authority may be transacted by circulation of papers
+to the members and acted upon, if approved. The resolution shall be placed before
+the Authority in the next meeting for its confirmation.
+
+      (5) Every meeting of the Authority shall normally be held at its head office,
+at such time as may be specified in the notice. When circumstances render it
+expedient to hold a meeting elsewhere, the same may, with approval of the
+Chairperson, be so held at any other place in Karnataka. In such a case, the notice
+convening such meeting shall specify the time and place of the meeting.
+
+       (6) Remote participation: The meeting may be carried out using video-
+conferencing or any other electronic means. Members who participate in a meeting
+remotely shall be counted in establishing the quorum or majority. In the event of a
+remote participation, attendance records shall be noted as “Remote participation”
+by the secretary.
+
+      (7) Not less than three working days notice shall ordinarily be given of each
+meeting of the Authority and such notice along with agenda shall be sent to every
+member, three working days in advance at his usual address in India as furnished
+by him to the Authority.
+
+[Page 6]
+                                         6
+      (8) Notwithstanding anything contained in sub-regulation (1), where a
+requisitioned meeting of the Authority is required to be convened, three days notice
+may not be required. However, sufficient notice shall be given to the members to
+enable them to attend the meeting.
+
+     (9) The notice, agenda and the minutes shall be delivered to the members
+personally upon acknowledgement or dispatched through registered post or
+transmitted through any other secure and reliable modern means of
+communication, as may be recognized under law for the time being in force.
+
+      (10) No business other than that for which the meeting has been convened
+shall be discussed at a meeting of the Authority, except with the consent of the
+Chairperson or the member presiding at the meeting and a majority of the members
+present.
+
+     8. Quorum for meeting.- (1) The quorum for transaction of business at a
+meeting of the Authority shall be a minimum of one-half of the appointed members
+present, with minimum of two members.
+
+      Explanation: While calculating the one-half of total strength under sub-
+regulation (1), if any fraction that might arise, shall be disregarded.
+
+      (2) If the quorum is not formed within half an hour from the time appointed
+for holding a meeting, the Chairperson or the presiding member, as the case may
+be, shall adjourn the meeting for such hour on some other day as he may deem fit
+and the notice of such adjournment shall be given to all the members along with
+the business which was to have been brought before the original meeting. If the
+quorum is not formed at the meeting so adjourned, the members present at the
+meeting shall form the quorum.
+
+      9. Minutes of meeting.- (1) The secretary or the designated officer shall
+record the minutes of meeting and maintain a register which shall, amongst other
+things, contain the name and designation of the members and invitees present in
+the meeting, a record of the proceedings and notes of dissent, if any. The draft
+minutes shall, as soon as practicable, be sent to the Chairperson and the attending
+members.
+
+       If no comments or confirmation is received from a member within seven
+days, the minutes shall be issued with approval of the Chairperson or presiding
+member. The designated officer shall also communicate, with the approval of the
+Chairperson or the presiding member, the minutes or extracts of the decision taken
+at the meeting to all concerned for necessary follow-up action and monitor their
+compliance by evolving a suitable reporting system. Periodical reports on follow-up
+action shall be submitted to the Authority.
+
+      (2) The minutes of the previous meeting shall be confirmed by circulation or
+at the next meeting of the Authority. The confirmed minutes shall be signed by the
+Chairperson or presiding member and taken on record thereafter. Each page of
+every book shall be initialled or signed and the last page of the record of the
+
+[Page 7]
+                                         7
+confirmed proceedings of each meeting in such books shall be dated and signed by
+the Chairperson or the presiding member and shall be taken on record.
+
+      (3) The minutes of the proceedings kept in accordance with these regulations
+shall be evidence of the proceedings recorded therein.
+
+      (4) The Authority shall cause the minutes of all the proceedings to be
+maintained in the books kept for the purpose which may be in the form of binders
+containing loose leaves, duly numbered and bound regularly. In no case the
+minutes of the proceedings of a meeting shall be attached to any such book as
+aforesaid by pasting or otherwise.
+
+       (5) Notwithstanding anything in sub-regulation (5), the minutes may also be
+kept by way of micro films or any other authentic modern means of safe storing
+and retrieval of records or printed material produced by a computer, if the same is
+recognised under any law for time being in force and subject to the conditions,
+restrictions or safeguards specified in such law.
+
+      (6) The minutes of each meeting shall contain a fair and correct summary of
+the decision arrived at the meeting.
+
+      (7) The minutes shall also contain the name of the members present at the
+meeting and in the case of each decision taken at the meeting, the names of the
+members, if any, dissenting from or not concurring with the decision taken by
+majority.
+
+     (8) Nothing contained in this regulation shall deem to require the inclusion
+in any such minutes of any matter which are detrimental to the interest of the
+Authority.
+
+      Explanation: The Chairperson or the presiding member, as the case may be,
+shall exercise discretion in regard to the inclusion or non-inclusion of any matter
+in the minutes as specified in this sub-regulation.
+      (9) Invitees at meeting: Any person, whose presence at a meeting is desired
+for consultation or advice, may be invited to attend the meeting by the Chairperson.
+
+     10. Obligation of members at the meeting.- (1) A member shall attend all
+the meetings of the Authority, unless leave of absence has been sought and the
+same has been granted by the Chairperson or the presiding member. Such leave of
+absence shall be recorded in the minutes of the meeting.
+      (2) Any member who has a direct or indirect pecuniary or other interest in
+any matter, including those relating to immediate family, coming up for
+consideration in the meeting, shall not take part in such deliberation or decision of
+the Authority, with respect to that matter.
+      Explanation: For the purpose of this regulation, ‘immediate family’ means
+spouse, children (whether biological or adopted), parents, brothers, sisters or any
+person related by blood or marriage, whether he is dependent on such member or
+not.
+
+[Page 8]
+                                         8
+
+
+      11. Procedure for scrutiny of complaint, reference and review petition.-
+(1) The complaints regarding compensation etc., in Form-N or Form-O (the forms
+appended to the rules) shall be lodged in the Karnataka RERA web portal, along
+with the fee specified. Whenever an unregistered real estate project is brought to
+the notice of the Authority, it may direct the complainant to provide the details of
+promoter and address to enquire.
+      (2) If the Authority finds after due enquiry that the particular project has to
+be registered with the Authority, the Authority shall initiate appropriate
+proceedings to register the project.
+
+      (3) Each complaint, appeal, review petition or reference received by the
+Authority shall be scrutinized by the authorised officer to check whether it
+conforms to these regulations and the defects, if any, shall be communicated to
+the party within a seven days.
+
+      (4) The Authority, by order, shall have the powers of formation of benches
+among the Chairperson and members, for effective and timely disposal of the
+complaint, appeal, review application, revision petition or reference or to exercise
+any of its powers.
+
+       (5) Nothing contained herein shall preclude the Authority from using the
+contents of such complaint, appeal, petition, revision application, review petition
+or reference in any manner as may be deemed fit, for inquiring into any possible
+contravention of any provisions of the Act, and rules and regulations made there
+under.
+
+      12. Adjudication proceedings.- For adjudication proceedings with respect
+to complaints filed with the Authority, the Authority may, by order, direct that
+specific matters or issues be heard and decided by a single bench of either the
+chairperson or any member of the Authority.
+
+      13. Authorised representative.- A person who is a party to any proceedings
+before the Authority may either appear in person or authorize any other person to
+present his case before the Authority and to do all or any of the acts for that
+purpose:
+
+      Provided that, the person appearing on behalf of any person in any
+proceeding before the Authority, shall file a memorandum of authorization, prior
+to the proceedings and an acknowledgement shall be obtained for the same.
+
+     14. Collection of information.- The Authority may issue such directions for
+the purpose of collection of any information, particulars or documents that the
+Authority may consider necessary in connection with the discharge of its functions
+under the Act, and rules and regulations made there under.
+
+      15. Investigation.- (1) The Authority at any time, direct the secretary or any
+other officer or person as the Authority considers appropriate, to study, investigate
+
+[Page 9]
+                                          9
+or furnish information with respect to any matter within the jurisdiction of the
+Authority, under the Act, and rules and regulations made there under.
+
+      (2) The Authority may, for the above purpose of sub-regulation (1), give such
+other directions as it may deem fit and state the time within which the report is to
+be submitted or information be furnished.
+
+      16. Orders of the Authority.- (1) The Authority (Chairperson or member)
+hearing the proceeding shall pass orders with reasons and such orders shall be
+signed by the Chairperson or member of the Authority, hearing such proceeding.
+      (2) All the orders and decisions issued by the Authority shall be certified by
+the signature of the secretary or an officer empowered on this behalf by the
+Chairperson and shall be affixed with the seal of the Authority and be
+communicated, as expeditiously as possible from the date of passing thereof, to all
+the parties of the proceeding.
+      17. Interim order.- The Authority may pass such ad-interim or interim
+order, as the Authority may consider appropriate at any stage of the proceedings,
+having regard to the facts and circumstances of the case.
+
+       18. Compliance of orders.- The Authority or the Adjudicating officer shall
+have the power to direct the parties concerned to file an affidavit of compliance of
+its order or such other document in the manner specified in its order.
+
+       19. Certified copies of the order.- (1) The Authority shall, on such terms
+and conditions as it considers appropriate, provide for supply of certified copies of
+documents or final order or judgment and order papers available with it to any
+person, applying in the specified form, by making payment of rupees one hundred
+per copy of the order, containing up to a maximum of ten pages. If the pages exceed
+ten, then for every extra page a sum of rupees two per copy shall be paid.
+
+       (2) The parties to the proceedings are entitled to get a copy of the final order
+or judgment and order of the Authority or the Adjudicating officer, either by post
+or in person, free of cost:
+
+      Provided that, if required the additional copy, by the parties, shall be
+provided on payment of fee as specified in sub-regulation (1).
+
+      (3) The Authority shall designate an officer for ensuring timely response to
+the requests received for supply of certified copies of documents, who shall
+endeavor to dispatch the certified copies of the documents requested for, as
+expeditiously as possible, within a period of thirty working days from the date of
+receipt of request.
+
+      (4) The Authority may, by order, classify any information, document and
+papers or materials maintained by it, to be confidential or privileged and direct that
+it shall not be available for inspection or supply of certified copy. The Authority
+
+[Page 10]
+                                           10
+may also direct that such document, paper or material shall not be used in any
+manner, except as specifically authorized by it.
+
+       (5) In case of maps, plans etc., a reasonable fee having regard to the skill,
+labour and time required for preparing the copy shall be fixed in each case by the
+secretary or officer in-charge and the same shall be deposited by the party applying
+for it. The whole of such fee so fixed shall be paid to the person employed for
+preparing such copy, who shall use his own material for that purpose.
+
+       (6) Before a copy is delivered, it shall be certified and sealed by the authorised
+officer in the manner prescribed under section 76 of the Indian Evidence Act, 1872.
+
+      (7) The Authority may, by an order, fix standard fee to be levied on the
+promoters, real estate agents or allottees, for inspection of documents, certified
+copies of documents and database management.
+
+      20. Inspection of records.- Inspection of documents shall be allowed in
+accordance with the Right to Information Act, 2005 (Central Act 22 of 2005) and
+rules made there under.
+
+     21. Destruction of records.- (1) Records pertaining to general
+administration, accounts and service matters of the employees and officers of the
+Authority shall be maintained as specified by the State Government.
+
+     (2) Records pertaining to registration of projects and complaints shall be
+maintained as per the procedure specified under Code of Civil Procedure, 1908.
+
+       (3) One copy of the entire file including note file and documents pertaining
+to the registration of projects shall be kept as permanent record. The other copies
+of the same registration file shall be destroyed after a period of six years from the
+date of registration.
+
+       (4) Records of the Authority, except permanent records, shall be destroyed
+by the order of the designated officer, after six years from the final conclusion of
+the proceedings and if any appeal is filed under section 44 of the Act, the same
+shall be destroyed after two years from the date of disposal of the appeal only after
+the approval of the Authority. The documents shall be destroyed in such manner,
+so as to render them unfit for any misuse.
+
+      (5) Entries regarding destruction shall be made in the relevant columns of
+the destruction register maintained in the specified format.
+
+       Explanation: Permanent records shall include orders, complaint register,
+interlocutory application register and such other records, as may be ordered to be
+included by the Chairperson.
+
+[Page 11]
+                                         11
+      22. Continuance of proceedings after death, etc.- (1) Where in a
+proceeding, any of the parties dies or is adjudicated as insolvent or in the case of
+a company, under liquidation or being wound up, the proceeding shall continue
+with the successors-in-interest, executor, administrator, receiver, liquidator or
+other legal representative of the party concerned, as the case may be.
+
+      (2) In case any person proposes to bring on record, the successors-in-
+interest, an application for the purpose shall be filed within the due date of the
+disposal of the complaint or application.
+
+       23. Effect of non-compliance.- Failure to comply with any requirement of
+these regulations shall not invalidate any proceeding, merely by reason of such
+failure, unless the Authority or the adjudicating officer is of the view that such
+failure has resulted in miscarriage of justice.
+
+      24. Power to remove difficulties.- If any difficulty arises in giving effect to
+any of the provisions of these regulations, the Authority may, by general or special
+order, do anything which is not inconsistent with the provisions of the Act and
+rules made thereunder, which appears to be necessary or expedient for the purpose
+of removing the difficulties.
+       25. Saving of Inherent power of the Authority.- (1) Nothing in these
+regulations shall be deemed to limit or otherwise affect the inherent power of the
+Authority to make such orders as may be necessary for meeting the ends of justice
+or to prevent the abuse of the process of the Authority.
+
+      (2) Nothing in these regulations shall bar the Authority from adopting in
+conformity with the provisions of the Act or rules made thereunder, a procedure,
+which is at variance with any of the provisions of these regulations including
+summary procedures, if the Authority, in view of the special circumstance of a
+matter or class of matters and for reasons to be recorded in writing, deems it
+necessary or expedient for so dealing with such a matter or class of matters.
+
+      (3) Nothing in these regulations shall bar the Authority to deal with any
+matter or exercise any power under the Act or rules made thereunder for which no
+regulations have been framed and the Authority may deal with such matters,
+powers and functions in a manner it thinks fit.
+
+      26. General power to amend or rectify.- The Authority may, at any time
+and on such terms as to costs or otherwise, as it may think fit, amend any defect
+or error in any proceedings before it, including any clerical or arithmetical error in
+any order passed by the Authority and all necessary amendments, rectifications
+shall be made for the purpose of determining the real question or issue arising in
+the proceedings:
+
+       Provided that, if the Authority desires to make amendments or rectifications
+in order to determine the real question or issue arising, the Authority shall provide
+an opportunity to the parties affected by such amendment or rectification touching
+the real question or issue to make representations and submissions with respect
+to the proposed amendment or rectification.
+
+[Page 12]
+                                         12
+      27. Extension or abridgement of time prescribed.- Subject to the
+provisions of the Act or rules made thereunder, the time prescribed under these
+regulations or by order of the Authority for doing any act may be extended, whether
+it has already expired or not, or abridged for sufficient reason, by an order of the
+Authority.
+
+      28. Costs.- (1) Subject to such condition and limitation as may be directed
+by the Authority, the costs of and incidental to, all proceedings shall be awarded
+at the discretion of the Authority and the Authority shall have power to determine
+by whom or out of what funds and to what extent such costs are to be paid and
+shall give all necessary directions for the aforesaid purposes.
+
+       (2) The costs shall be paid within thirty days from the date of the order or
+within such time as the Authority may, by order, direct. If a party fails to comply
+with an order for costs within the permitted period, the order of the Authority
+awarding costs shall be executed forthwith in the same manner as a decree or order
+of a civil court.
+       29. RERA Bank Account.- (1) General guidelines: The RERA Bank Account
+shall be a No Lien account and withdrawal from the account shall be in accordance
+with the provisions of the Act, rules and regulations made thereunder. The amount
+withdrawn from the RERA Bank Account shall be utilised for the purpose of
+completion of the same real estate project. However, there is no end use restriction
+on the amount which is withdrawn from the RERA Bank Account, in accordance
+with the provisions of the Act, rules and regulations made there under.
+
+       (2) Account opening: A RERA Bank Account shall be opened before applying
+for registration and maintained for each of the registered project of the promoter,
+in the local branch of a scheduled bank, where the project is going on. Details of
+the RERA Bank Account shall be submitted along with the project registration
+application. It shall be required to suffix the term “RERA Designated account for
+name of the project, real estate project” with the name of the account holder.
+
+      Illustration: if the name of the promoter is M/s ABC Ltd and the name of
+the project is XYZ, then the name of the account shall be “ABC-RERA Designated
+Account of XYZ”.
+
+      Each project shall have only one RERA Bank Account. In case of multiple
+promoters, necessary contractual or legal arrangements shall be made by the
+principal promoter, who shall register the project, to ensure proper operation of the
+account.
+
+       (3) Deposits: The promoter shall deposit seventy percent of the amount
+collected or realized from allottees (other than pass through charges and indirect
+taxes), in the RERA Bank Account. In case of project which is higher than the
+estimated value of sales revenue, hundred percent of the amount collected from
+the allottees (other than pass through charges and indirect taxes), shall be
+
+[Page 13]
+                                         13
+deposited in the RERA Bank Account. The money present in the RERA Bank
+Account may be kept in fixed deposit with the bank and such fixed deposit shall be
+No Lien Fixed Deposit and no loan shall be obtained against and no charge shall
+be created on such fixed deposit.
+
+       (4) Reporting: The promoter shall submit Form–4, Form–5 and Form–6 to the
+Authority for quarterly return filing compliance. The promoter shall get the
+accounts audited within six months after the end of every financial year by the
+statutory auditors of the promoter’s enterprises and shall submit a report on
+statement of accounts on project fund utilization and withdrawal by the promoter
+in Form–7. In case of a fixed deposit being made from the money in the RERA Bank
+Account, the chartered accountant shall verify that there is no lien or charge on
+such fixed deposit. The promoter and/or chartered accountant shall obtain the no
+lien or charge certificate in respect to such fixed deposit from the bank once in
+every three months and submit the same as part of quarterly compliance return.
+The promoter shall append copy of the RERA Bank Account pass book statement
+certified by chartered accountant to Form – 4, as part of the project quarterly return
+submission.
+
+     (5) Change of RERA Bank Account: The promoter may change the RERA
+Bank Account from one bank to another bank only with prior permission of the
+Authority. For RERA Bank Account change request, promoter shall submit through
+Authority’s web portal along with fee and documents in the following forms,
+namely:-
+
+      (i) application for change in RERA Bank Account in Form–B1(A);
+      (ii) copy of the Board resolution;
+      (iii) No objection certificate (NOC) from the existing Bank Account branch in
+Form–B2 along with account statement up to closing date;
+      (iv) proposed RERA Bank Account to be opened;
+      (v) reason for change of RERA Bank Account along with supporting
+documents;
+      (vi) fund transfer compliance letter in Form-B3, along with confirmation letter
+of RERA Bank Account closure in Form-B4; and
+      (vii) up to date compliance reports under sub-section (1) of section 11 of the
+Act.
+      (6) Power of the Authority: Upon revocation of the registration, the Authority
+may direct the bank holding the RERA Bank Account, to freeze or de-freeze the said
+account, to facilitate the remaining development works in accordance with the
+provisions of clause (c) of sub-section (4) of section 7 and section 8 of the Act. The
+Authority may, in the interest of the allottees, enquire into the payment of amount
+out of RERA Bank Account.
+                                              By Order and in the name of the
+                                                   Governor of Karnataka,
+
+                                                     (HEMAVATHI)
+                                         Under Secretary to Government (RERA),
+                                                 Housing Department.
+
+[Page 14]
+                                          14
+                                         FORM - 1
+                    (see clause (i) of sub-regulation (1) of regulation 3)
+
+                 CERTIFICATE BY CHARTERED ACCOUNTANT
+                             (On Letter head)
+                               (Registration)
+
+             RERA No.             :
+
+             Project Name         :
+
+             Promoter Name        :
+
+
+
+      I, _________________________ (full name of the CA) am a proprietor/partner of
+the firm __________________________(full name of the firm as per ICAI records) is a
+member of Institute of Chartered Accountants of India holding Certificate of
+practice (ICAI Membership No. _________) having office at _________________________
+(full office address) issuing this certificate with respect to the real estate project
+being registered with Karnataka RERA.
+
+
+       I have undertaken to issue the Chartered Accountants certificates as
+mandated U/s. 4(2)(l)(D) of the Real Estate (Regulation and Development) Act, 2016
+read with Karnataka Real Estate (Regulation and Development Rules) 2017 to
+facilitate the promoter to withdraw the money from the RERA Designated Bank
+Account based on the percentage of completion of the Project.
+
+      (1) This is to certify the details of M/s. ________________________ (name of the
+          promoter) having their office at ____________________________ (full address
+          of the promoter) being the promoter of the Real Estate Project
+          ________________________ (name of the project as per application).
+
+      (2) The Promoter of the proposed real estate project is an
+          Individual/Partnership Firm / LLP / Company / Society / Others. I have
+          verified the ownership document of the entity and present owners and
+          details of the entity are as below:
+
+[Page 15]
+                                      15
+
+
+                                                              Total Capital
+                                                              contributed
+                     Name of the           Percentage of          by the
+    Nature of
+                    Owners of the           ownership            owners/
+     Entity
+                       entity              in the entity      members as
+                                                                    on
+                                                              31/03/20XX
+  Individual /    Name of the         100%                   Rs.
+  Proprietor-     individual or
+  ship            proprietor
+  Partnership     a. Partner 1        a. Partner 1 - 40 %    Rs.
+  Firm or LLP     b. Partner 2        b. Partner 2 - 30 %
+                  c. Partner 3        c. Partner 3 - 20 %
+                  d. Partner 4        d. Partner 4 - 5 %
+                  e. Partner 5        e. Partner 5 - 5 %
+
+                                        TOTAL 100 %
+  Company         a. Shareholder 1    a. Shareholder 1 - Rs.
+                  b. Shareholder 2       40 %
+                  c. Shareholder 3    b. Shareholder 2 -
+                  d. Shareholder 4       30 %
+                  e. Shareholder 5    c. Shareholder 3 -
+                                         20 %
+                  Note: In case of
+                  shareholding less   d. Shareholder 4 - 5
+                  than 5 %, can be       %
+                  consolidated and    e. Shareholder 5 - 5
+                  mentioned as           %
+                  group of
+                  shareholders          TOTAL 100 %
+                  holding less than
+                  5%
+  Society         a. Total Number
+                     of Members in                           Rs.
+                     the Society
+                  b. Total Number
+                     of Shares in
+                     the society
+  Others          Eg. KHB/HUF/
+                  AOP/BOI etc                                Rs.
+
+(mention the relevant details based on the type of promoter entity)
+
+[Page 16]
+                                      16
+1. Additional details of the Promoter:
+
+  Sl                     Details                          Details
+  No
+   1    Promoter     Registration    Number
+        (Partnership       Reg,     Company
+        Incorporation, Society Reg No and
+        PANo in case of Individual)
+   2    Date of Birth / Date of incorporation
+        as per the certificate
+   3    GST Registration (if applicable)
+
+   4    List of Designated Partners in case
+        of LLP as on date
+   5    List of Directors (as per ROC) as on
+        date
+   6    Total Value of the Assets as per
+        latest Balance Sheet
+   7    Total Net worth of the Promoter as
+        per latest Balance Sheet
+
+
+
+2. The project being developed is plotted development / group housing / villa
+   project / commercial / mixed development / industrial project. The promoter
+   has obtained necessary sanctioned plan from the competent authorities. The
+   project address being _________________________ (mention full address as
+   mentioned in the sanctioned plan).
+
+3. The promoter of the project has opened the RERA Designated Bank Account
+   for the proposed project and details are as below:
+
+       (i) Name of the Account Holder:
+       (ii) Designated Account Number:
+       (iii)Bank Name:
+       (iv) IFSC Code:
+       (v) Branch Name:
+       (vi) Account Name as per Bank Records
+          (based on pass sheet / pass book etc)
+
+
+4. The promoter has provided the details of the estimated cost of the real estate
+   project. I / We have reviewed the estimated cost of the project and details are
+
+[Page 17]
+                                         17
+ as below. These values are based on the supporting documents provided by
+ the promoter.
+
+Sl.                                     Amount
+          Estimated Cost of                                 Remarks
+No.                                      in INR
+ 1    Land of the Project                         Higher of acquisition cost or
+                                                  guidance value (ASR) as on
+                                                  DD/MM/YYYY (nearest date
+                                                  of     RERA       registration
+                                                  application date)
+
+2     Estimate cost of Various                    Promoter to calculate these
+      approvals and NOC’s of                      estimates based on the
+      the Project -                               sanctioned plan. May vary
+         a. Plan Approvals                        from time to time
+         b. Water
+         c. Electricity
+         d. Pollution Control
+         e. AAI
+         f. BSNL/CZR
+         g. Others
+            --------------------
+            TOTAL
+
+3     Construction Cost –                         Promoter      has   calculated
+      a. Estimate                  of             these costs based on the
+          construction cost as                    present     sanctioned   plan,
+          certified      by      the              specifications in the project,
+          Engineer.                               proposed facility, amenities in
+      b. Architects, Engineer,                    the project to complete the
+          Consultants Fees etc.                   development        work     as
+      c. Administrative Costs.                    promised to the allottees in
+      d. Taxes, Cess or levy.                     the project.
+      e. Interest                 on
+          borrowings.
+      ----------------------------
+      TOTAL
+4     TOTAL ESTIMATED
+      COST OF THE PROJECT
+      (1+2+3)
+
+[Page 18]
+                                         18
+   5. The Promoter of the Project has borrowed money from the following parties
+      for the purpose of real estate project being registered:-
+
+          Sl. No.              Particulars                    In Rs.
+             1      Total Borrowings (If Applicable)
+                    a. Name of the lender
+                    b. Amount
+             2      Mortgage Details (If Applicable)
+                    a. Name of the lender
+                    b. Amount
+
+   6. The Promoter of the project is in compliance with the section 3(1) of the RERA
+      Act and it is certified that the promoter has not entered into any agreements
+      in the sale of plot or units and booking amount or advance amounts have
+      not been received from any of the allottees.
+
+      This certificate is issued to the promoter of the project for the purpose of
+RERA Registration. The detail of this certificate is prepared based on details,
+documents, information, undertaking provided by the promoter. This certificate
+shall not be used for any other purposes other than mentioned herein.
+
+
+                    Signature of the Chartered Accountant
+                    Name
+                    Membership
+                    Number
+                    Address with
+                    PINCODE
+
+                    Contact Details
+                    Email id
+                    Website Link
+                    UDI No
+Date :
+Place :
+Note:
+
+   1. Fill all the details in this certificate, mention Not Applicable, do not leave
+      blank.
+   2. The details of CA mentioned on the website shall be the same CA, who
+      undertake to issue this certificate
+   3. Promoter shall not appoint or engage new CA without obtaining the No
+      Objection Certificate from this CA for the purpose of withdrawal of funds
+      from the project Bank Account in accordance with Sec 4(2)(l)(D) of the RERA
+      Act
+   4. CA shall issue this certificate in accordance with ICAI Standards
+
+[Page 19]
+                                              19
+                                          FORM - 2
+                    (see clause (i) of sub-regulation (1) of regulation 3)
+
+                             CERTIFICATE BY ARCHITECT
+                                   (on Letter head)
+                                     (Registration)
+                                                                        Date:
+
+RERA No.:
+Project Name:
+Promoter Name:
+
+To,
+
+      The ________________ (Name and Address of Promoter).
+
+      Subject: Certificate of estimated Cost of construction work of ______________
+Wing(s) of the ____________ phase of the project provisional of residential
+accommodation for _____________, situated on the Plot bearing C.N. No./CTS
+No./Survey no./Final Plot no. ________, ____________ District __________ PIN
+____________ admeasuring ____________ sq.mts., area being developed by
+______________.
+
+
+
+      Sir,
+
+      This certificate is issued in accordance with the provisions the Act read with
+the Karnataka Real Estate (Regulation and Development) Rules, 2017.
+      I have verified the sanctioned drawing. The work is as per the sanctioned
+drawing given by the Competent Authority with sanctioned drawing No.
+____________.
+
+
+      I/We ___________ have undertaken assignment as Architect/Licensed
+surveyor     of     certifying    estimated   cost    of     Construction       Work   of   the
+___________Wing(s) of the ____________Phase of the Project, situated on the plot
+bearing      C.N.    No./CTS       No./Survey      no./Final     Plot     no.____________    of
+________________       District    ________________    PIN     _____________     admeasuring
+___________ sq.mts., area being developed by _____________.
+
+
+      Based on Site Inspection done on ____________, with respect to each of the
+Building/Wing of the aforesaid Real Estate Project, I certify that as on the date of
+
+[Page 20]
+                                           20
+this certificate, the estimated cost for each of the building/Wing of the Real Estate
+Project as registered vide number _______________ under Karnataka RERA is rupees
+___________________.
+
+                                                       Yours faithfully,
+
+                                                Name and Signature of Architect
+                                                COA No.:
+                                                Address:
+                                                Contact number:
+                                                E-mail ID:
+                                                Website link:
+Date:
+Place:
+
+
+         *Note: The same Architect is responsible for the completion of project. In
+case of change of the Engineer, approval shall be taken from the Authority.
+
+
+                                       FORM – 3
+
+                            CERTIFICATE BY ENGINEER
+                  (see clause (i) of sub-regulation (1) of regulation 3)
+                                      (on Letter head)
+                                        (Registration)
+                                                             Date:
+
+RERA No.:
+Project Name:
+Promoter Name:
+
+To,
+
+         The ________________ (Name and Address of Promoter).
+
+      Subject: Certificate of estimated Cost for Development of (Project Name) for
+construction of ______________building(s)_____________Wing(s) of the ____________
+phase, situated on the Plot bearing C.N. No./CTS No./Survey no./Final Plot no.
+________, demarcated by its boundaries (latitude and longitude of the end points)
+__________to the North ____________ to the South _____________ to the East _________
+to the West of Division _____________ village ______________ taluka ____________
+District __________ PIN ____________ admeasuring ____________ sq.mts., area being
+developed by ______________(Promoter).
+
+         Sir,
+
+[Page 21]
+                                            21
+
+
+         This certificate is issued in accordance with the provisions of section 4(2) (l)
+(D) of the Act read with sub-rule (5) of rule 4 and rule 5 of the Karnataka Real
+Estate (Regulation and Development) Rules, 2017.
+         I have verified the sanctioned drawing. The work is as per the sanctioned
+drawing given by the Competent Authority with sanctioned drawing No.
+____________. I am satisfied that the physical progress of the project is in
+accordance with that of the RERA registration application details.
+         I/We_______________ have undertaken assignment of certifying Estimated
+Cost for the Real Estate Project proposed to be registered under RERA, being
+____________Building(s)/_________ Wing(s) of the __________ Phase situated on the
+plot bearing C.N. No/CTS No./Survey no./Final Plot no._____________ of Division
+_______________      village   ______________    taluka   ____________________   District
+________________ PIN _______________ admeasuring _________________ sq.mts. area
+being developed by ________________ (Owner/Promoter).
+         We estimate Total Estimated Cost of completion of the building(s) of the
+aforesaid project under reference as Rs._______.
+
+
+                                                          Yours faithfully,
+
+
+                                                 Name and Signature of Engineer
+                                                 Licence No.:
+                                                 Address:
+                                                 Contact number:
+                                                 E-mail ID:
+                                                 Website link:
+Date:
+Place:
+
+
+         *Note: The same Engineer is responsible for the completion of project. In
+case of change of the Engineer, approval shall be taken from the Authority.
+
+[Page 22]
+                                           22
+                                       FORM - 4
+                 (see clause (ii) of sub-regulation (1) of regulation 3)
+
+                  CERTIFICATE BY CHARTERED ACCOUNTANT
+                                (on Letter head)
+(to be uploaded by the promoter on his webpage on the RERA portal for quarterly
+                                    updates)
+
+                                                             Date:
+KRERA Registration No.:
+Project Name:
+Promoter Name:
+Cost of the real estate project:
+Quarter Ending Date:
+
+
+       This certificate is issued in accordance with the provisions the Act read with
+the Karnataka Real Estate (Regulation and Development) Rules, 2017.
+
+
+       The promoter, in compliance with section 4 (2) (l) (D) of the Act, has deposited
+70% of the amounts received from the allottees of this project in the following
+account:
+       Name of the Account Holder:
+       Designated Account No.(RERA Bank Account):
+       Bank Name:
+       IFSC Code:
+       Branch Name:
+
+                                                            Amount (in Rs.)
+ Sl. No.                    Particulars                 Estimated       Incurred
+                                                         Amount         Amount
+                                                       (Column–A)     (Column -B)
+   1       Land Cost:
+           (a) The cost incurred by the promoter
+           for acquisition of ownership and title
+           of the land parcels for the project as
+           an outright purchase, lease, etc.
+           (b) Amount           paid          for
+           acquisition/purchase of TDR (if any)
+           (c) Amount paid to the Competent
+           Authority for project approval, no
+
+[Page 23]
+                                            23
+                                                              Amount (in Rs.)
+Sl. No.                     Particulars                   Estimated       Incurred
+                                                           Amount         Amount
+                                                         (Column–A)     (Column -B)
+          objection certificates, stamp duty,
+          transfer    charges,      registration
+          charges, conversion charges, change,
+          taxes, statutory payments to the
+          State and Central Government.
+          Sub-Total of LAND COST:
+      2   Development             Cost/Cost         of
+          Construction:
+          (a) (i) Estimated Cost of Construction
+          as certified by Engineer.
+          (ii)Actual Cost of Construction
+          incurred as per the books of accounts
+          as verified by the CA
+          Note: for adding to total cost of
+          construction incurred, minimum of
+          (i) or (ii) is to be considered.
+           (iii)     On-site      expenditure      for
+          development          of   entire    project
+          excluding cost of construction as per
+          (i) or (ii) above, i.e. salaries,
+          consultant fees, site overheads,
+          development works, cost of services
+          (including          water,      electricity,
+          sewerage, drainage, layout roads
+          etc.), cost of machineries and
+          equipment including its hire and
+          maintenance costs, consumables etc.
+          All costs directly incurred to complete
+          the construction of the entire phase
+          of the project registered.
+          (b) Payment of Taxes, cess, fees,
+          charges, premiums, interest etc. to
+          any Statutory Authority.
+          (c) interest payable to financial
+          institutions, scheduled banks, non-
+          banking financial institution (NBFC)
+          or money lenders on construction
+          funding or money borrowed for
+          construction.
+
+          Sub-Total of Development Cost:
+      3   (1) Total Estimated Cost of the Real
+              Estate Project:
+              ((1 + 2) of Estimated Column)
+
+[Page 24]
+                                          24
+                                                           Amount (in Rs.)
+Sl. No.                    Particulars                 Estimated       Incurred
+                                                        Amount         Amount
+                                                      (Column–A)     (Column -B)
+         (2) Total Cost incurred of the Real
+              Estate Project:
+              ((1+ 2) of Incurred Column)
+         (3) Percentage of completion of
+              Construction Work:
+             (as     per     Project    Architect’s
+              Certificate)
+         (4) Proportion of the Cost incurred on
+              land Cost to the Total Estimated
+              Cost:
+         (5) Proportion of the Cost incurred on
+              Construction Cost to the Total
+              Estimated Cost:
+         (6) Total percentage of completion of
+              construction as per CA:
+         (7) Amount which can be withdrawn
+              from the Designated Account
+              (Total     Estimated     Cost*     as
+              percentage of completion of
+              construction)(lower of (4) and (7)):
+       4 (8)  Less:  Amount withdrawn till date
+              of this certificate as per the Books
+              of Accounts and Bank Statement.
+         (9) Net Amount which can be
+              withdrawn from the Designated
+              Bank      Account      under     this
+              certificate.
+
+   2             Borrowing/Mortgage details( if applicable):
+
+          (a) Borrowing details:
+          Name of the lender:
+          Amount disbursed:
+          Amount pending for disbursement
+          from lender:
+          Amount to be repaired to lender:
+
+          (b) Mortgage details:
+           Mortgaged to: (Name of entity or
+           institution)
+
+[Page 25]
+                                        25
+                                                        Amount (in Rs.)
+Sl. No.                   Particulars               Estimated       Incurred
+                                                     Amount         Amount
+                                                   (Column–A)     (Column -B)
+          Amount disbursed:
+          Amount pending for disbursement:
+          Amount to be repaid to lender:
+   3       Details of transactions in the
+           designated RERA Bank Account:
+           (include pre RERA transactions in
+           case of ongoing projects, wherever
+           applicable)
+          (a) Total number of units booked:
+          (b) Total amount realized from sale of
+              units during the quarter (3b):
+          (c) Total amount deposited into the
+              bank out of sale proceeds during
+              the quarter (3):
+          (d) Percentage of deposit made:
+              Reconciliation for the quarter:
+          (a) Opening balance date (quarter
+              starting date):
+          (b) Opening balance as per bank
+              statement (to match with the
+              previous quarter closing bank
+              balance):
+          (c) Deposits during the quarter on
+              account of sales:
+          (d) Other deposits made (if any):
+          (e) Withdrawals during the quarter
+              from the sales proceeds:
+          (f) Other withdrawals made (if any):
+          (g) Closing balance as per bank
+              statement:
+          (h) Closing balance date (quarter end
+              date):
+
+              Cumulative Reconciliation from
+              the beginning of the project:
+           (a) Opening balance of the account:
+           (b) Total deposits made from sales
+               proceeds:
+
+[Page 26]
+                                         26
+                                                         Amount (in Rs.)
+Sl. No.                   Particulars                Estimated       Incurred
+                                                      Amount         Amount
+                                                    (Column–A)     (Column -B)
+           (c) Total deposits made other than
+                sale proceeds (if any):
+           (d) Total withdrawals made from
+                sales proceeds:
+           (e) Total withdrawals made other
+                than those from sales proceeds
+                (if any):
+           (f) Closing balance for the current
+                quarter ((a)+(b)+(c))-((d)+(e))
+
+        This certificate is being issued for the project _____________ with RERA
+Registration No. _______________, in compliance of the provisions of section
+4(2)(l)(D) of the Act and based on the records and documents produced before me
+and explanations provided to me by the management of the Company.
+
+      Qualification/Observations:
+      I hereby certify that the total amount collected or realised from the allottees
+on account of sale or booking of the units during the quarter is Rs._______________
+(as per AA) out of which Rs. ___________________ is deposited into the project
+designated Bank Account as per section 4(2)(1)(D) of the Act.
+                                                  Yours faithfully,
+
+
+                               Name and Signature of Chartered Accountant:
+                               Membership No.:
+                               Address:
+                               Contact number:
+                               E-mail ID:
+                               Website link:
+                               UDI No.:
+
+[Page 27]
+                                        27
+                       ADDITIONAL INFORMATION FOR PROJECTS
+
+
+      (1) Estimated Balance Cost to Complete the Real Estate Project: ______
+          (Difference of Total Estimated Project cost less Cost incurred)
+
+      (2) Balance amount of receivables from sold apartments as per statement
+         appended to this certificate: ___________
+         (as certified by Chartered Accountant as verified from the records And
+         books of Accounts)
+
+      (3) (i) Balance Unsold area:
+           (to be certified by Management and to be verified by CA from the
+            records and books of accounts)
+          (ii) Estimated amount of sales proceeds in respect of unsold
+          apartments:
+          (calculated as per ASR multiplied to unsold area as on the date of
+          certificate, to be calculated and certified by CA)
+      (4) Estimated receivables of ongoing project:
+          (Sum of 2 + 3 (ii))
+      (5) Amount to be deposited in Designated Account (70% or 100%):
+          (If amount at Sl. No. (4) is greater than at (1), then 70% of the balance
+         receivables of Ongoing project shall be deposited in designated Account.
+         If amount at Sl. No. (4) is lesser than (1), then 100% of the balance
+         receivables of Ongoing project shall be deposited in designated Account)
+
+
+
+Statement for calculation of Receivables from the Sales of the Ongoing Real
+                               Estate Project
+1. Sold Inventory:
+
+                             Unit
+             Carpet                                                         Is
+                        Consideration                         Date of
+Sl.           Area                                 Balance              agreemen
+      Flat                  as per      Received               agree
+No             (in                                 Receiva                   t
+      No.                Agreement      Amount                ment of
+ .           sq.mts.                                 ble                registered
+                          /Letter of                            sale
+                 )                                                       Yes/No
+                          Allotment
+  1
+  2
+
+[Page 28]
+                                          28
+2. Unsold Inventory Valuation:
+   (Ready recknor rate as on the date of certificate of the Residential/commercial
+premises Rs.____________ per sm.)
+
+                                        Unit Consideration
+                       Carpet Area                                Total ASR
+   Sl.          Flat                      (as per ready
+                       (in sq.mts.)                            consideration per
+   No.          No.                        recknor rate
+                            (A)                                    flat (A*B)
+                                             (ASR)(B)
+    1
+    2
+
+
+     This certificate is being issued for RERA compliance for the Company
+(Promoter’s Name) and is based on the records and documents produced before me
+and explanations provided to me by the management of the Company.
+
+
+                                               Yours faithfully,
+
+                                Name and Signature of Chartered Accountant:
+                                Membership No.:
+                                Address:
+                                Contact number:
+                                E-mail ID:
+                                Website link:
+                                UDI No.:
+         Date:
+         Place:
+
+
+        Note:
+        1. UDI No. is mandatory.
+        2. This certificate shall be in accordance with section 4(2)(1)(D) of the Act
+          read with the Karnataka Real Estate (Regulation and Development) Rules,
+          2017.
+        3. If there are no qualification/observations, shall be mentioned as NIL.
+        4. If the promoter has deposited money in other than the RERA designated
+          Bank Account, report such deviation under qualification/observations.
+        5. Ensure that the information shall match with the information provided
+          during registration or amended subsequently.
+        6. Sold includes booked apartment/plot.
+
+[Page 29]
+                                          29
+                                      FORM - 5
+                (see clause (ii) of sub-regulation (1) of regulation 3)
+
+
+                          CERTIFICATE BY ARCHITECT
+                                  (on Letter head)
+      (To be uploaded by the promoter on his web page on the RERA portal for
+quarterly update)
+                                                             Date:
+
+
+RERA Registration No.:
+Project Name:
+Promoter Name:
+
+
+To,
+      The _______________ (Name & Address of Promoter),
+
+      Subject: Certificate of percentage of Completion of Construction Work of
+__________Building/_______Wing of the _________ phase of the Project (KRERA
+Registration Number) situated on the Plot bearing C.N. No/CTS No./Survey
+no./Final Plot no. _________ demarcated by its boundaries (latitude and longitude
+of the end points)____________to the North___________ to the South __________ to
+the East _________ to the West of Division ____________ village ______________ taluk
+________________District ___________PIN____________ admeasuring _______________
+sq.mts. area being developed by _________________ (Promoter Name).
+
+      Sir,
+      This certificate is issued in accordance with the provisions the Act read with
+the Karnataka Real Estate (Regulation and Development) Rules, 2017.
+      I have verified the sanctioned drawing. The work is as per the sanctioned
+drawing given by the Competent Authority with sanctioned drawing No.
+____________.
+      I/We _____________have undertaken assignment as Architect/Licensed
+surveyor of certifying percentage of completion of Construction Work of _________
+Building/______ Wing of the __________ phase, situated on the plot bearing C.N.
+No.CTS No./Survey no./Final Plot no ____________ of Division __________ village
+
+[Page 30]
+                                           30
+____________    taluka    _____________   District   _____________     PIN   ____________
+admeasuring       _________________       sq.mts.       area   being    developed     by
+____________(Promoter Name).
+
+      1. Following technical professionals are appointed by Owner/Promoter:- (as
+          applicable)
+      (i) M/s/Shri/Smt__________________________ as L.S./Architect
+      (ii) M/s/Shri/Smt__________________________ as Structural Consultant
+      (iii) M/s/Shri/Smt__________________________ as MEP Consultant
+      (iv) M/s/Shri/Smt__________________________ as site supervisor
+
+
+      2. Based on the Site Inspection dated __________, with respect to each of the
+Building/Wing of the aforesaid Real Estate Project, I Certify that as on the date of
+this Certificate, the Percentage of Work done for each of the building /Wing of the
+Real Estate Project as registered vide number _________________, under KRERA is
+as per Table - A herein below. The percentage of the work executed with respect to
+each of the activity of the entire phase is detailed in Table - B.
+
+                                     Table – A
+
+Building / Wing Number:____________
+(to be prepared separately for each Building /Wing of the Project)
+
+    SI.                  Task/Activity                     Percentage of work done
+    No.                                                           (Approx.)
+     1     Excavation
+     2    ______ Number of Basement(s) and plinth
+     3    Stilt Floor
+     4    _____ Number of Slabs of Super
+          Structure
+     5    Internal walls, internal plaster, floorings
+          within flats/premises, doors and
+          windows to each of the flat/premises
+     6    Sanitary Fittings within Flat/ Premises,
+          Electrical Fittings within the Flat/
+          Premises.
+     7    Staircases, lifts, wells and lobbies at
+          each floor level connecting staircase and
+          lifts, overhead and underground water
+          tanks
+     8    The external plumbing and external
+          plaster,    elevation,   completion      of
+          terraces with water proofing of the
+          building/wings
+
+[Page 31]
+                                           31
+    9   Installation of lifts, water pumps, Fire
+        Fighting Fittings and Equipment as per
+        CFO NOC, Electrical fittings to
+        Common Areas, electro, mechanical
+        equipment, Compliance to conditions
+        of environment/ CRZ NOC, Finishing
+        to entrance lobby, plinth protection,
+        paving of areas appurtenant to
+        Building, Compound Wall and all other
+        requirements as may be required to
+        obtain Completion Certificate.
+
+                                   Table – B
+Internal and External Development Works in respect of the entire Registered
+Phase/Project:
+
+        SI.      Common areas and          Proposed   Percentage   Details
+        No      Facilities/Amenities       (Yes/No)     of work
+                                                         done
+        1     Internal     Roads     and
+              Footpaths
+        2     Water Supply
+        3     Sewerage        (Chamber,
+              lines, septic tank, STP)
+        4     Storm Water Drains
+        5     Landscaping and Tree
+              Planting
+        6     Street Lighting
+        7     Community Buildings
+        8     Treatment       and
+              Disposal of sewage and
+              sullage water
+        9     Solid          Waste
+              management       and
+              disposal
+        10    Water      conservation,
+              Rain water harvesting
+        11     Energy Management
+        12     Fire protection and fire
+              safety requirements
+        13    Electrical meter room,
+              sub - station, receiving
+              station
+        14    Others (Add more option)
+
+[Page 32]
+                                           32
+
+
+       Any other facility / amenity which has been proposed in agreement of sale:
+
+      SI.       Facility/amenity        Percentage of work done            Details
+      No                                       (Approx.)
+       1
+
+       2
+
+
+
+                                                     Yours Faithfully,
+
+
+                                                Name and Signature of Architect
+                                                Licence No.:
+                                                Address:
+                                                Contact number:
+                                                E-mail ID:
+                                                Website link:
+
+       Date:
+       Place:
+
+
+      *Note: The same Architect is responsible for the completion of project. In
+case of change of the Architect, approval shall be taken from the Authority.
+
+                                          FORM-6
+                     (see clause (ii) of sub-regulation (1) of regulation 3)
+
+                            CERTIFICATE BY ENGINEER
+                                  (on Letter head)
+      (to be uploaded by the promoter, on his web page on the RERA portal for
+                                 quarterly updates)
+
+                                                              Date:
+RERA No:
+Project Name:
+Promoter:
+Name:
+
+To,
+
+The _________________________ (Name & Address of Promoter),
+
+     Subject: Certificate of cost incurred for development of (Project Name) for
+Construction of ___________ building(s)/_________ Wing(s) of the ________ phase
+situated on the plot bearing C.N.No /CTS No./Survey No./ Final Plot no. ________
+
+[Page 33]
+                                          33
+demarcated by its boundaries (latitude and longitude of the end points) _________
+to the North __________ to the South ________ to the East _______to the West of
+Division ________ Village __________ Taluk __________ District __________ PIN
+__________ admeasuring __________ sq.mts area being development by (Promoter).
+
+
+Sir,
+              This Certificate is issued in according with the provisions of section
+4(2)(1)(D), the Real Estate (Regulation and Development) Act, 2016 read with rule
+4(5) and 5 of the Karnataka Real Estate (Regulation and Development) Rules, 2017.
+
+             I have verified the sanctioned drawing. The work is as per the
+sanctioned drawing given by the Competent Authority with sanctioned drawing No.
+__________ I am Satisfied that the physical progress of the project in accordance
+with that of the RERA Registration Application details.
+
+            I/We____________________ have undertaken assignment of certifying
+Estimated Cost for the subject, Real Estate Project proposed to be registered under
+KRERA, being __________ Building(s)/__________ Wings(s) of the __________ phase
+situated on the plot bearing C.N./CTS No./survey no. /Final Plot no __________ of
+Division __________ Village __________ Taluk ____________________ District
+__________ PIN __________ admeasuring __________sq. mts area being developed by
+(Owner/Promoter).
+
+
+   1. Following technical professional are appointed by Owner /Promoter:-
+
+    (i) M/s/Shri/Smt. _____________________ as L.S. /Architect
+   (ii) M/s/Shri/Smt. _________________________ as Structural Consultant
+  (iii) M/s/Shri/Smt. _________________________ as MEP Consultant
+  (iv) M/s/Shri/Smt. __________________________ as Quantity Surveyor
+
+   2. We have estimated the cost of the completion to obtain Occupation
+       Certificate/ Completion Certificate, of the Civil, MEP and Allied works, of the
+       Building(s) of the project. Our estimated cost calculations are based on the
+       drawings/plans made available to us for the project under reference by the
+       developer and consultants and the schedule of items and quantity for the
+       entire work as calculated by __________ quantity Surveyor* appointed by
+       Developer/Engineer, and the assumption of the cost of material, labour and
+       other inputs made by developer, and the site inspection carried out by us.
+   3. We estimate Total Estimated Cost of completion of the building(s) of the
+       aforesaid project under reference as Rs. ___________ (Total of Table A and B).
+       The estimated Total Cost of project is with reference to the Civil, MEP and
+       allied works required to be completed for the purpose of obtaining occupation
+
+[Page 34]
+                                          34
+       certificate/completion certificate for the building(s) from the _______________
+       being the Planning Authority under whose jurisdiction the aforesaid project
+       is being implemented.
+  4. The Estimated Cost Incurred till date is calculated at Rs. _____________ (Total
+       of Table A and B). The amount of Estimated Cost Incurred is calculated on
+       the base of amount of Total Estimated Cost.
+  5. The Balance Cost of Completion of the Civil, MEP and allied works of the
+       Building(s) of the project to obtain Occupation Certificate / Completion
+       Certificate from Rs ____________      (planning Authority) is estimated at Rs.
+       ____________________ (Total of Table A and B).
+  6. I certify that the Cost of the Civil, MEP and allied work for the aforesaid
+       Project as completed on the date of this certificate is as given in Table A and
+       B below:
+
+
+                                      Table - A
+
+Building bearing Number _________________ or called _________________ (to be
+prepared separately for each Building of the Real Estate Project):
+
+ Sl.                           Particulars                             Amount
+ No.                                                                 (in rupees)
+  1     Total Estimated cost of the building as on …..date of
+        Registration is
+  2     Cost incurred as on ……….. (based on Estimated cost)
+  3     Work done in percentage (as Percentage of the
+        estimate cost)
+  4     Balance Cost to be incur (Based on the Estimated
+        Cost)
+  5     Cost Incurred on Additional /Extra Items as on ……..
+        not include in the Estimated Cost
+        (Annexure A)
+
+[Page 35]
+                                         35
+                                     Table - B
+
+(to be prepared for the entire registered phase of the Real Estate Project)
+
+ Sl.                          Particulars                              Amount
+ No.                                                                 (in rupees)
+  1       Total Estimated cost of the internal and External
+          development works including amenities and facilities
+          in the layout as on …….….. date of Registration is
+   2      Cost incurred as on ……….. (based on Estimated cost)
+   3      Work done in percentage (as Percentage of the
+          estimate cost)
+   4      Balance Cost to be incur (based on the Estimated
+          Cost)
+   5      Cost Incurred on Additional /Extra Items as on ……..
+          not include in the Estimated Cost
+          (Annexure A)
+
+
+
+                                                       Yours faithfully
+                                            Name and Signature of the Engineer
+                                             License No            :
+                                             Address               :
+                                             Contact No            :
+                                             Email Id              :
+                                             Website link          :
+
+Date :
+Place :
+
+NOTE:
+
+1. The same Engineer is responsible for the completion of Project, in case of Change
+of the Structural Engineer approval need to be taken from the Authority.
+
+2. The scope of work is to complete entire Real Estate Project as per drawings
+approved from time to time so as to obtain Occupation Certificate /Completion
+Certificate.
+
+3. (*) Quantity survey can be done by office of Engineer or can be done by an
+independent Quantity Surveyor, whose certificate of quantity calculated can be
+relied upon by the Engineer. In case of independent quantity surveyor being
+appointed by Developer, the name has to be mentioned at the place narked () and
+in case quantity are being calculated by office of Engineer, the name of the person
+in the office of Engineer, who is responsible for the quantity calculated should be
+mentioned at the place marked (*).
+4. The estimated cost includes all labour, material, equipment and machinery
+required to carry out entire work.
+
+[Page 36]
+                                         36
+5. As this is an estimated cost, any deviation in quantity required for development
+of the Real estate Project will result in amendment of the cost incurred/to be
+incurred.
+6. All components of work with specifications are indicative and not exhaustive.
+
+                                   Annexure A
+
+List of Extra / Additional Items executed with Cost (which were not part of the
+original Estimate of Total Cost)
+
+                                       FORM - 7
+                  (see clause (iii) of sub-regulation (1) of regulation 3)
+
+              ANNUAL REPORT ON STATEMENT OF ACCOUNTS
+                         (For year ending: 31.3..............)
+  (On the letter head of chartered accountant who has a certificate of practice)
+
+                                                                    Date:
+RERA No.             :
+Project Name         :
+Promoter Name        :
+
+
+
+To,
+(Name and address of Promoter)
+
+     Subject: Report on Statement of Accounts on project fund utilization and
+withdrawal by (Promoter) for the period from _________to _________With respect to
+project _______________ RERA Registration Number ______________
+
+Designated Bank Account Details
+
+Name of the Accounts Holder         :
+Designated Account Number           :
+Bank Name                           :
+IFSC Code                           :
+Branch Name                         :
+
+1. This report in issued in accordance with the provisions of the Real Estate
+(Regulation and Development) Act, 2016 read with the Karnataka Real Estate
+(Regulation and Development Rules, 2017.
+
+2. I/we have obtained all the necessary information and explanation from the
+Promoter/Company, during the course of our audit, which in my/our opinion are
+necessary for the purpose of this report.
+
+[Page 37]
+                                           37
+3. I/we hereby confirm that I/we have examined the prescribed registers, books
+and documents, and the relevant records of [Promoter] for the period ended
+_________ and hereby certify that:
+
+   (i)     M/S. ____________ (Promoter) have completed _________ percentage of the
+           project titled ______________ RERA Registration No. __________________
+           located at _____________
+   (ii)    Amount collected during the year for this project is Rs. _________ amounts
+           collected till date is Rs. _________.
+
+                       Details                  100% amount           70% amount
+            Amount Collected during the
+            year from the allottees
+            Amounts collected till date
+            (from inception)
+
+
+   (iii)   Amount withdrawn during the year for this project is Rs. _________
+           amount withdrawn till date is Rs. _________ (since inception of the project)
+
+   4. 1/we Certify that the [Name of Promoter) has utilized the amounts collected
+   for _________ project only for that project and the withdrawal from the
+   designated Bank Account(s) of the said project has been in accordance with the
+   proportion to the percentage of completion of the Project (If not, please specify
+   the amount withdrawn in excess of eligible amount or any other exceptions).
+
+   5. I/We certify that the details as per Annexure A and B are certified as per
+   books of accounts and other details and documents furnished by the promoter
+   of the project.
+
+
+                             Signature and Stamp /Seal of the Signatory CA)
+
+                                  Name of the Signatory           :
+                                  Membership No.                  :
+                                  Full Address                    :
+                                  Contact No                      :
+                                  Email ID                        :
+                                  Website Link                    :
+                                  UDIN Number                     :
+                                  Designated Account              :
+
+Date:
+Place:
+
+(Enclosures: Annexure A and B)
+
+[Page 38]
+                                           38
+                                    Annexure A
+                     Format of Annual Accounts of the Project
+                        (refer proviso 3 to section 4(2)(l)(D))
+
+            RERA No.                :
+
+            Project Name            :
+
+            Promoter Name           :
+
+            Financial Year          :
+
+   Total Amount collected from the allottees of the Project:
+
+                                        Table – A
+                                                             As on 31-    As on 31-
+                                                                 03-          03-
+    Sl.
+                              Details                        (Current     (Previous
+    No.
+                                                              year) (In    year) (In
+                                                                INR)         INR)
+   1      Total Amount collected from the Allottees of
+          the project (net cancellation of refunds if any)
+          Since inception of the Project – towards cost of
+          the apartment / plot / others.
+
+          Give break up of 100 % and 70 %
+
+             Sl                         Amount in
+                       Details
+            No                            INR
+           1      100 % collected
+           2      70 % of above
+
+
+   2      Other Charges collected from the Allottees of
+          the project (not included above)
+          TOTAL Amount in INR
+
+(Mention whether above values are including/excluding Indirect taxes like VAT,
+Service Tax, GST etc)
+
+      We hereby declare that the details are as per the books of accounts, other
+relevant documents maintained by the promoter of the project.
+
+[Page 39]
+                                                  39
+Observations and Qualifications:
+
+Signature and Seal of the Promoter Seal and Sign of Chartered Accountant
+
+         Name, Address, ICAI M. No., UDI No.
+                                                       Name:
+                                                       Designation:
+
+Place:
+Date:
+                           Amount incurred by the Promoter
+                                      Table – B
+         Promoter Name
+         RERA Registration Number
+         Project Name
+         Financial Year
+                                                                      Incurred    Incurred
+                                                   Estimated Cost       in INR     in INR
+                    Particulars                        as per             (till      (till
+                                                    Registration       current    previous
+                                                                         year)      year)
+   Land Cost:
+   a)  The cost incurred by the promoter for
+       the acquisition of ownership and title
+       of the land parcels for the project as
+       an outright purchase lease etc.
+
+   b)     Amount    paid     for   Acquisition/
+          purchase of TDR (if any)
+
+   c)     Amount paid to the Competent
+          Authority for project approval, No
+          Objection Certificates, stamp duty,
+          transfer    charges,     Registration
+          charges, conversion charges, change,
+          taxes, statutory payments to state
+          and Central Government.
+
+   d)  Any other cost in relation to Land
+       (including interest on borrowing for
+       the purpose of acqusition of land)
+   Sub – Total Land Cost
+
+Signature and Seal of the Promoter           Seal and Sign of Chartered Accountant
+         Name, Address, ICAI M. No., UDI No.
+                                                       Name:
+                                                       Designation:
+
+Place:
+Date:
+
+[Page 40]
+                                             40
+                                                                 Incurred    Incurred
+                                               Estimated           in INR     in INR
+         Development Cost/ Cost of
+                                              Cost as per            (till      (till
+               Construction:
+                                              Registration        current    previous
+                                                                    year)      year)
+   a)
+   (i) Estimated Cost of Construction
+        as certified by Engineer
+   (ii) Actual Cost of construction
+          incurred as per the books of
+          accounts as verified by the
+          CA
+          Note: (for adding to total cost
+          of construction incurred,
+          lower of (i) or (ii) is to be
+          considered)
+   b)     As part of cost of project which
+          is no included in a
+   c)     Interest payable to financial
+          institutions, scheduled banks,
+          non-      banking     financial
+          institution (NBFC) or money
+          lenders     on    construction
+          funding or money borrowed for
+          construction
+   d)     Other Charges - Offsite
+          Development Charges
+  Administrative, Management
+  Expenses
+  Sub – Total Development Cost
+
+Signature and Seal of the Promoter          Seal and Sign of Chartered Accountant
+
+Name, Address, ICAI M. No., UDI No.
+
+                                                  Name:
+                                                  Designation:
+Place:
+Date:
+
+[Page 41]
+                                       41
+                                                            Current      Previous
+                                                              year         year
+                 Summary of Costs
+                                                           Incurred      Incurred
+                                                             in INR       in INR
+  1) Total Estimated Cost of the Real Estate Project
+     [1(i) +1(ii)] of estimated Column.
+  2) Total Cost Incurred of the Real Estate Project
+     [1(i) + 1(ii)] of Incurred Column.
+  3) Percentage of completion of construction work
+     (as per Project Architect’s Certificate)
+  4) Proportion of the Cost incurred on Land Cost to
+     the Total Estimated Cost.
+  5) Proportion of the Cost incurred on Construction
+     Cost /to the Total Estimated Cost
+  6) Total percentage of completion of construction
+     as per CA (i.e, 3 / 2)
+  7) Total Amount Withdrawn from the Designated
+     Bank Account (70% account)
+  8) Balance Eligible to withdraw
+
+Utilisation of funds having withdrawn from the project designated Bank Account:
+
+                                                Current year      Previous year
+              Total Utilisation                  Utilised till        Utilised till
+                                                  Mar 20xx             Mar 20xx
+ 1. Total Amount Withdrawn from the
+ Designated Bank Account (70% account)
+ 2. Utilised for the purpose of Project in
+ accordance with RERA Act, Rules etc
+
+Note:
+Promoter has withdrawn from designated Bank Account and not utilized in
+accordance with the provisions of RERA for the Project Rs. _________________.
+    We hereby declare that the details are as per the books of accounts
+maintained by the promoter.
+
+Signature and Seal of the Promoter    Seal and Sign of Chartered Accountant
+Name, Address, ICAI M. No., UDI No.
+
+                                            Name:
+                                            Designation:
+Place:
+Date:
+
+[Page 42]
+                                        42
+         Summary of total collections and realization from the allottees
+                                    Table C
+
+                         Till date of    FY      FY      FY     FY     FY
+  Total Collection
+                            RERA        20xx    20xx    20xx   20xx   20xx   TO
+ from the Allottees
+                         Registration    -xx     -xx     -xx    -xx    -xx   TAL
+Total collections and
+realization from the
+allottees    of    the
+project year on year
+as per books of
+accounts and other
+documents
+maintained by the
+promoter      of   the
+project
+
+(mention 100%
+amount here)
+Less : Amount
+Incurred
+
+Towards        Land
+Towards
+Construction
+Towards Others, if
+any
+
+TOTAL Cost Incurred
+
+
+      We hereby declare that the details are as per the books of accounts and
+documents maintained by the promoter. The Chartered Accountants may provide
+note.
+
+Signature and Seal of the Promoter            Seal and Sign of Chartered
+Accountant
+                                             Name, Address, ICAI M. No., UDI No.
+
+                                             Name:
+                                             Designation:
+
+Place:
+Date:
+
+[Page 43]
+                                              43
+                   Liabilities on the Project as on __/__/20xx
+                                      Table D
+
+Part A – Liability towards the project development:
+
+                                                               Balance As
+                                                                             Balance As on
+   Sl.                                                         on 31-03-
+                        Nature of Liability                                   31-03-20xx
+   No.                                                            20xx
+                                                                             Previous Year
+                                                              Current Year
+     1    Dues / Payable to Landowners (if any)
+     2    Payable to Supplier of Materials / goods for the
+          Project
+     3    Payable to Service Providers for the services
+          rendered
+     4    Payable to government authorities
+     5    Payable towards taxes, cessetc (specify the
+          nature of taxes etc)
+     6    Disputed government levies including property
+          taxes, cess, ground rent etc (specify the nature
+          of taxes etc) – if any
+     7    Disputed Indirect taxes (specify the nature of
+          taxes – VAT, Service Tax, GST etc) – if any
+     8    Amount collected from the Allottees towards
+          refundable deposit / Corpus / to be transferred
+          to the Association of Allottees
+     9    Amount collected from the Allottees towards
+          advance common area maintenance charges to
+          be transferred to the Association of Allottees or
+          towards provision of services at future date
+          (unutilized portion)
+     10   Payable to Allottes (if any) of the project in
+          accordance with Agreement for sale and RERA
+          Act, K Rules (in case of delay in possession etc)
+     11   Others – Pl specify
+
+
+
+          TOTAL Amount in INR
+
+    We hereby declare that the details are as per the books of accounts
+maintained by the promoter of the project.
+
+Observations and Qualifications:
+
+Signature and Seal of the Promoter          Seal and Sign of Chartered Accountant
+
+Name, Address, ICAI M. No., UDI No.
+
+                                                   Name:
+                                                   Designation:
+Place:
+Date:
+
+[Page 44]
+                                         44
+                                  Annexure B
+
+Annexure to Annual Report on Statement of Accounts in Form 7 to be issued by
+Chartered Accountant in practice to certify the Statement of Account in accordance
+with section 4(2)(L)(D) of the RERA Act 2016, and KRERA Rules, 2017
+  Sl.
+                                   Details                             Details
+ No.
+   1    Whether separate RERA Bank Account has been opened as            Y/N
+        envisaged in K- RERA
+   2     Whether the existing operational Bank Account was made          Y/N
+        known at the time of application for registration as RERA
+        Bank Account
+   3    Details of RERA Bank Account as registered with K- RERA          Y/N
+        (mention all the Bank Accounts if there has been a change
+        in Bank Account registered with RERA)
+
+             Bank Name
+             Branch Name
+             Account Name
+             Account No
+             Type of Account
+             IFSC Code
+             Date of Registration with K-RERA
+             Date of Account Opening
+             Opening Balance (as on 1/4/20XX)
+             Deposit during the period 2020-21
+             Withdrawals during the period 2020-
+             21
+             Closing Balance (as on 31st March
+             2021)
+
+
+  4     In case of change in RERA Bank Account as indicated above,     Y/N
+        whether due approval following prescribed documentation
+        was taken from K- RERA under the            K-RERA Bank
+        Account Directions, 2020
+
+  5      Whether any of the Form 4 issued during the audit period
+        mandated deposit of 100% of the money collected from the
+        booking of the project units (refer point 5 of Additional
+        Information of Form 4)and reference to K RERA Rules 4(5)
+
+  6     If Yes
+
+                 Sl. No   Certifying      Date of Certificate
+                          Professional
+                 1
+                 2
+
+[Page 45]
+                                        45
+Sl.
+                                   Details                              Details
+No.
+ 7     Whether the project registration is as New or Ongoing
+       project? New or Ongoing
+
+ 8     Whether any fixed deposit was created out of funds
+       deposited in RERA Bank Account?
+
+       (a) If yes, whether the fixed deposit is created with the same
+            RERA account bank branch in compliance with K RERA
+            Bank Account Directions, 2020
+
+       (b) If yes to 8 above, whether any lien is created on such
+           fixed deposit in violation of para 5 (ii) of K RERA Bank
+           Account Directions, 2020?
+ 9     Whether there has been any instance of receipt of
+       consideration in excess of 10% of apartment value without
+       entering into a registered agreement for sale in accordance
+       with Section 13 of the RERA Act?
+
+       If yes, please provide the information as below
+
+                                                          Amount
+                                                          received
+                                                          in excess
+        Sl.   Unit       Date    of Total
+                                                          of 10% till
+        No    Number     Agreement Consideration
+                                                          registered
+                                                          AOS
+                                                          executed
+        1
+        2
+
+
+ 10    Whether the project is executed by availing any loans /
+       borrowings?
+
+10.1. If yes, please provide detail as below
+
+        Sl.   Name      Amount       Sanctio     Loan      Collateral
+        No    & Type    of. Loan     n Date      Out-          or
+                of      Sanction               standing    Mortgage
+              Lender      (Rs.)                  as on      details
+                                                 31st
+                                               March __
+                                                 (Rs.)
+
+
+10.2   Whether the encumbrance on project land is reported to K
+       RERA?
+
+[Page 46]
+                                             46
+ Sl.
+                                        Details                               Details
+No.
+10.3   If yes to 11 above, whether promoter has mortgaged or
+       created a charge on any booked unit and continuing?
+ 11.   Whether any qualification made by the professionals in
+       forms 4,5 and 6 for indicating noncompliance with RERA
+       Act, rules and regulations?
+
+11.1. If yes, please provide the details as below – for the financial
+      year
+
+                                           Certi-   Date
+           Sl                 Tick as                         Details of
+                   Form                    fying      of
+           No                 Appli-                        Discrepancy/
+                   4/5/6                   Profe-   Issu-
+                               cable                        qualification
+                                          ssional   ance
+        1     Form 4
+        2     Form 5
+        3     Form 6
+ 12    Details of Withdrawals from the Project Bank Account –
+       Based on CA Certificate
+
+       Sl         Form 4 –      Total       Amount     Amount     Excess
+       No        CA- Date     Amount        Eligible    With-      with-
+                (withdrawal   Incurred      to with-    drawn     drawal
+                  of funds)                  drawn                if any
+       1        30-06-20xx
+       2        30-09-20xx
+       3        31-12-20xx
+       4        31-03-20xx
+
+
+  13       List of Agents engaged by the promoter with their
+           registration details –
+
+                                               RERA
+                                                            Validity of the
+             Sl                             Registration
+                    Name of the Agent                           Agent
+             No                              No of the
+                                                             Registration
+                                               Agent
+
+
+
+           Note: If promoter engaged any agents and paid fees,
+           remuneration contravention to the RERA Act, Rules, shall
+           be reported by the chartered accountant.
+
+Observations and Qualifications:
+
+[Page 47]
+                                         47
+      I / We have obtained all necessary information and explanation from the
+promoter, during the course of our audit, which in my / our opinion are necessary
+for the purpose of this certificate. Also I / we have attached herewith the copies of
+Financial Statements and Audit Report of the_________ (Promoter Name) for the
+financial year ending on 31st March 20XX.
+
+      I / We hereby confirm that I / We have examined the prescribed registers,
+books and documents and the relevant records of (Project) for the period ended
+and this certificate is being issued based on the records and documents produced
+before me and explanations provided to me by the management of the promoter
+based on the verification of books of accounts till (date) 31st March _______.
+
+                                    Signature and Stamp/Seal of the Signatory CA)
+
+                                Name of the Signatory:
+                                Membership No.:
+                                Full Address:
+                                Contact No. :
+                                E mail:
+                                Website Link:
+                                UDINo-
+
+ Date:
+Place:
+
+
+
+                                     FORM - B1
+                   (see clause (iv) of sub-regulation (1) of regulation 3)
+
+                  (Application for change in RERA Bank Account)
+
+
+To,
+Karnataka Real Estate Regulatory Authority
+____________________________________
+__________________________________________
+
+
+Sub: Application for change In RERA Bank Account.
+RERA Registration No.:_______________________
+Project Name _________________
+Promoter Name _________________________,
+
+[Page 48]
+                                         48
+Dear Sir,
+         With reference to the above mentioned subject, I /we would like to apply
+for the Authority’s approval for change in the RERA Bank Account to be opened in
+the local branch where the Project is going on as per the following details:
+
+
+                           Existing RERA Bank Account
+ Bank Name
+ Branch Name
+ Account Number
+ Account Name
+ IFSC Code
+                            Proposed RERA Bank Account
+                 (in the local branch where the Project is going on)
+ Bank Name
+ Branch Name
+ Account Number
+ Account Name
+ IFSC Code
+
+     I/we solemnly affirm and declare that the particulars given herein are correct
+to my/our knowledge and belief.
+
+     I/ we further undertake that we shall freeze all transactions from the said
+account until RERA conveys its decision on the RERA Bank Account change
+application.
+
+Date:
+Place:
+
+                                                 Yours faithfully,
+
+                                              Name, Signature and Seal of
+                                          the Promoter /Authorised Signatory
+
+[Page 49]
+                                           49
+
+
+                                    FORM-B1-A
+                   (see clause (v) of sub-regulation (1) of regulation 3)
+
+                      Chartered Accountant’s Certificate
+                    (For RERA Bank Account change request)
+
+RERA Registration Number: _______________________________
+Project Name: ____________________________________________
+Promoter Name: ____________________________________________
+Cost of Real Estate Project: __________________________________
+
+             The is to certify that, the promoter having obtained registration of the
+real estate project under Real Estate (Regulation and Development) Act, 2016 read
+with The Karnataka Real Estate Regulation and Development Rules, 2017, has
+complied with section 4(2) (1) (D) of the Act by depositing 70% of the amount
+realised from the allottees to the following Bank Account:
+
+      Name of the Account Holder:
+      Designated Account Number:
+      Bank Name:
+      IFSC Code:
+      Branch Name:
+
+Total money realised and deposited in to Bank Account:
+
+        Details          Designated        In   any     other Bank      Total
+                         Account      of   Account of the promoter      amount
+                         the project       related to this project      realised
+                         (in Rs.) (A)      (post RERA registration)     from the
+                                           (in Rs.) (B)                 allottee
+                                                                        (C=A+B)
+  100%          money
+  realised from the
+  allottees (including
+  all     the    Bank
+  Accounts)
+  70% of above
+  Closing balance in
+  the Account as on
+  date      of    this
+  certificate
+
+[Page 50]
+                                       50
+     Promoter has opened new Bank Account for the purpose of this project.
+Details of new Bank Account (proposed designated account):
+
+      Name of the Account Holder:
+      Designated Account Number:
+      Bank Name:
+      Account Name:
+      IFSC Code:
+      Branch Name:
+
+Observations - any comments/noncompliance:
+
+     This certificate in being issued for RERA compliance for the
+Project_____________ (Promoter’s Name) and is based on the records and documents
+produced before me and explanation provided to me by the promoter of the project.
+
+                              Signature of Chartered Accountant:
+                              Name:
+                              Designation:
+                              Membership Number:
+                              Contact Number:
+                              Address:
+                              Email id:
+                              Website Link:
+
+
+Date:
+Place:
+UDIN No :
+
+                                  FORM - B2
+                 (see clause (vi) of sub-regulation (1) of regulation 3)
+ (Format of NOC to be issued by existing bank for change of RERA Bank Account
+                              on Bank letter head)
+
+                                                                   Date:
+To,
+The Secretary
+Real Estate Regulatory Authority – Karnataka
+Bengaluru.
+
+Madam / Sir
+
+        Subject: No Objection Certificate For Bank Account Bearing No.
+__________________ , in the Name of ________________________________ held by
+_____________________________________, in our bank.
+
+[Page 51]
+                                       51
+This is to certify that :
+
+      1. No order for attachment/freezing the subject Bank Account have been
+         issued by any statutory Authority, including Income Tax Department /
+         GST or any other statutory Authority.
+      2. No order /s of injunction have been communicated to us or any notice
+         served on us by any court/Tribunal or quasi-judicial Authority by virtue
+         of which the Promoter is restrained from operating the account or
+         changing the Bank Account.
+      3. The promoter has not defaulted on repayment of any borrowings/ loans
+         from the bank due to which it/he/she is prohibited from changing the
+         Project Bank Account.
+
+                                    Banker Designation   :
+                                    Banker Name          :
+                                    Signature            :
+                                    Seal                  :
+                                    Bank Name             :
+                                    Branch Name            :
+                                    IFSC Code              :
+
+                                   FORM-B3
+                    (see clause (vii) of sub-regulation (1) of regulation 3)
+      (Certificate of Fund Transfer from Bank having proposed Bank Account)
+
+
+To,
+Karnataka real Estate Regulatory Authority,
+_______________________________
+______________________________
+
+
+            Sub: Details of RERA Bank Account
+RERA Registration Number:
+Project Name:
+Promoter Name:
+
+
+
+       Dear Sir,
+       This is to certify that the promoter _______________ has the Bank Account
+operational with our bank as per following details.
+
+[Page 52]
+                                         52
+ Bank Name
+ Branch Name
+ Account Number
+ Account Name/holder Name
+ Type of Account
+ IFSC Code
+ Closing Balance (as on__________)
+ (in Rs.)
+
+        Further, a sum of Rs._________________ (in words: ___________) has been
+credited in to the above mentioned Bank Account on date_____________________.
+
+Date:
+Place:
+                                              Yours faithfully,
+
+                                          Name and Signature
+                             Seal of the Promoter/ Authorised Signatory
+
+
+                                   FORM - B4
+               (see clause (viii) of sub-regulation (1) of regulation 3)
+              (Confirmation Letter of change in RERA Bank Account)
+
+To,
+Karnataka Real Estate Regulatory Authority,
+________________________________
+________________________________
+
+         Sub: Confirmation of change in RERA Bank Account
+
+RERA Registration No:
+Project Name:
+Promoter Name:
+
+             With reference to my/our Application for change in RERA Bank
+Account vide letter dated ___________ and as per the terms and conditions
+mentioned in the in-principal approval received from the Authority vide/   email
+dated____, I/we confirm that the RERA Bank Account has been changed and an
+amount of Rs_________ (in words:__________) has been transferred to the proposed
+RERA Bank Account.
+
+            I undertake that, I shall operate the RERA Bank Account in
+compliance with the Act, rules and regulations.
+
+[Page 53]
+                                        53
+                         Existing RERA Bank Account
+ Bank Name
+ Branch Name
+ Account Number
+ Account Name
+ IFSC Code
+
+
+                        Proposed RERA Bank Account
+ Bank Name
+ Branch Name
+ Account Number
+ Account Name
+ IFSC Code
+
+      I/we solemnly affirm and declare that the particulars given herein are
+correct to my /our knowledge and belief.
+
+Date:
+Place:
+
+                                             Yours faithfully,
+
+                                            Name and Signature:
+                                 Seal of the Promoter/Authorised Signatory
+
+
+Note: The Bank Account should be opened in the local branch where the project is
+going on and Bank Account Name must be in the name of project.
+
+[Page 54]
+                                          54
+
+                                     FORM - F1
+                    (see clause (ix) of sub-regulation (1) of regulation 3)
+
+                           ARCHITECT’S CERTIFICATE
+        (for status of work as on date and pending work as on date)
+
+RERA Registration No.:
+Project Name:
+Promoter Name:
+
+To,
+The _____________ (Name & Address of Promoter)
+
+        Subject: Certificate for percentage of Completion of Development of
+                   _____________ (Project Name)
+
+Sir,
+      I/we have undertaken assignment of certifying the percentage of Completion
+for Development of ____________ (Project Name) bearing Registration Number
+_________________.
+
+            I/we hereby certify that ________________ percentage of work is
+complete as on ___________ (date) and ___________ percentage of work is pending.
+
+        The percentage of work done till date is mentioned below:
+
+  Sl.                                                       Completion Status
+                          Particulars
+  No.                                                        (in percentage)
+ 1       Overall Work done in percentage till date
+ 2       Percentage of Interior Works Complete
+ 3       Percentage of Exterior Works Complete
+ 4       Percentage of Amenities Complete
+ 5       Percentage of Common areas Complete
+ 6       Any other work done details
+
+        The percentage of work pending till date is mentioned below:
+
+                                                                     Duration
+  Sl.                                              Percentage
+                      Particulars                                    needed to
+  No.                                              remaining
+                                                                     Complete
+ 1       Overall Work to be done in                                …….days/
+         Percentage                                                months
+ 2       Percentage of Interior Works to                           …….days/
+         Complete                                                  months
+ 3       Percentage of Exterior Works to                           …….days/
+         Complete                                                  months
+ 4       Percentage of Amenities to Complete                       …….days/
+                                                                   months
+
+[Page 55]
+                                           55
+ 5        Percentage of Common areas to                            …….days/
+          Complete                                                 months
+ 6        Any other work to be done details                        …….days/
+                                                                   months
+
+
+                                                         Yours Faithfully,
+                                                Signature and Name of Architect
+                                                COA number:
+                                                Address:
+                                                Contact No:
+                                                Email id:
+                                                Website link:
+Place:
+Date:
+
+                                     FORM – F2
+                     (see clause (x) of sub-regulation (1) of regulation 3)
+
+                   CHARTERED ACCOUNTANT’S CERTIFICATE
+                            (Fund utilization)
+
+RERA Registration Number:
+Project Name:
+Promoter Name:
+Total Cost of Real Estate Project:
+Total amount utilized for project till date:
+
+To,
+The _____________________________ (Name and Address of promoter),
+
+         Subject: Certificate for Funds utilized for the project __________ (Project
+                   Name)
+
+     Sir,
+              I/we ___________ have under taken assignment of certifying the funds
+utilized for_____________ (Project Name) bearing Registration Number ____________.
+
+            The Promoter in compliance with section 4(2)(1)(D), of the Real Estate
+(Regulation and Development) Act, 2016 has deposited 70% of the amounts
+received from the allottees of this project in the following accounts:
+
+         Name of the Account Holder:
+         Designated Account Number:
+         Bank Name:
+         IFSC Code:
+         Branch Name:
+
+[Page 56]
+                                            56
+  Sl.
+                            Particulars                   Amount in Rupees
+  No.
+   1        Opening Balance in the Designated
+            Account
+   2        Total Amount collected from allottees
+   3        Total Amount invested by Promoter (own
+            Fund)
+   4        Total Borrowings
+   5        Total Amount Utilized for Project till date
+   6        Closing Balance
+
+     I/we ______________ certify that out of the funds received Rs. ___________,
+Rs___________ has been utilized for construction purposes of the project
+______________ (project name) and Rs. _______________ remains unutilized.
+
+      Expenditures incurred for the purpose for which the funds were received is
+verified with the vouchers produces before me and that I have exercised the
+following checks to see that the money was actually utilized for the purpose
+which it was sanctioned.
+
+        Sl.
+                              Particulars                 Amount in Rupees
+        No.
+         1     Opening balance in the Designated
+               Account
+        2      Total Amount collected from allottees
+
+        3      Total Amount invested by Promoter
+               (Own Fund)
+        4      Total Amount to be received from
+               allottees
+        5      Borrowings:
+
+               Name of the Lender:
+
+               Amount Disbursed :
+
+               Amount pending for disbursement from
+               lender :
+
+               Amount to be repaid to lender:
+
+        6      Mortgage Details :
+               Mortgaged to (Name of the Entity /
+               Institution):
+               Amount Disbursed :
+               Amount pending for disbursement :
+               Amount to be repaid to lender :
+
+[Page 57]
+                                          57
+         7    Total Funds required         for    project
+              Completion (Cost to go)
+         8    Closing Balance
+
+
+*Completion means completion of all development works as defined in section 2(t)
+of the Real Estate (Regulation and Development) Act, 2016.
+
+     I/we ____________ certify that out of the Total     Funds received Rs.
+_____________ has    been utilized for construction purposes of the  project
+____________ (Project name) and Rs. __________ is required to carry on the
+completion of work.
+
+
+
+                                               Yours faithfully,
+
+                                         Signature of the Chartered Accountant
+
+                                             Name:
+                                             Membership Number:
+                                             Address:
+                                             Contact Details:
+                                             Email id:
+                                       Website Link:
+
+
+Date:
+Place:
+
+                                       FORM - F3
+                    (see clause (xi) of sub-regulation (1) of regulation 3)
+
+                             ENGINEER’S CERTIFICATE
+             (For status of work as on date and pending work as on date)
+
+RERA Registration No.:
+Project Name     :
+Promoter:
+Name:
+
+To,
+
+The _________________________________________ (Name and address of Promoter),
+
+         Subject: Certificate for percentage of Completion of Development of
+                 __________ [Project Name]
+
+[Page 58]
+                                            58
+Sir,
+
+               I/We _______________ have undertaken assignment of certifying the
+percentage of completion for development of _____________ [Project Name] bearing
+Registration Number _________________.
+
+
+               I/We hereby certify that _____percentage of work is complete as on
+_____________ (Date) and ________________ percentage of work is pending.
+
+                The percentage of work done so far is mentioned below:
+
+         Sl.                   Particulars                         Completion
+         No.                                                          status
+                                                                 (in percentage)
+         1      Overall Work done in percentage till date
+         2      Percentage of Civil Works Complete
+         3      Any other work done details
+
+The percentage of work to be done is mentioned below:
+
+         Sl.           Particulars               Percentage    Duration needed
+         No.                                     remaining        to complete
+          1     Overall Work to be done                       ….. days/months
+                in percentage
+          2     Percentage of Civil Works                     ….. days/months
+                yet to complete
+          3     Any other Pending work                        ….. days/months
+                details
+
+
+                                                      Yours faithfully,
+
+
+
+                                                 Name and Signature of the Engineer
+                                                 License No:
+                                                 Address:
+                                                 Contact No:
+                                                 Email id:
+                                                 Website link:
+
+
+Date:
+Place:
+
+[Page 59]
+                                          59
+                                           FORM-M
+                   (see clause (xii) of sub-regulation (1) of regulation 3)
+
+RERA Registration No.:
+Project Name and address:
+Promoter Name:
+Address:
+Website:
+Phone/Mobile No :
+
+To:
+(Insert name and address of the allottee/s)
+
+Dear Sir/ Madam,
+
+            Subject: Intimation and consent regarding modification of sanctioned
+                 plans In respect of the Project ……………………….. situated at
+                 ……….. Village, …………… Hobli, ………………. Taluk and
+                 …………………… District.
+
+            Ref : Agreement for Sale dated …………………….., in respect of Plot /
+                  apartment      /     row-house/ villa   Bearing       No.
+                  ………………………..,floor, in the project ……………………..
+
+
+      This is with respect to obtaining consent from you for the proposed
+modification of sanctioned plans of the project, in this regard please note the
+following:
+
+1.    With reference to the above, the project namely ……………………, is being
+developed by me/us and has been registered with the Karnataka Real Estate
+Regulatory Authority under the Real Estate (Regulation and Development) Act,
+2016 and the Karnataka Real Estate (Regulation and Development) Rules, 2017 on
+………………… vide registration No ………………………..
+
+2.    In view of the provisions of Act and Rules becoming applicable to the project
+and in view of the proposed modification of the sanctioned building plan of the
+Project, by virtue of which the ……….. layout/building in the Project is being
+modified to include ……………. This resulting in ………………(give brief details of all
+proposed modifications). Apart from the said modifications in ………………….. no
+other changes are proposed in the sanctioned layout / building plans.
+
+3.    The modified plan has been sanctioned by……………. vide ………………………
+dated: …………………….. (in case of modified plans sanctioned prior to issue of
+Circular regarding modification as per provisions of section 14 of the Act, if consent
+not required give reasons for the same). The application to modify the plan sanction
+will be applied with the jurisdictional planning/municipal authority being
+
+[Page 60]
+                                           60
+…………………………… after completion of due process and obtaining NOC from the
+Authority.
+
+4.    It is hereby informed to you that as per the modified building plan, the
+plot/apartment/row house/villa proposed to be purchased by you may undergo
+the following changes:
+
+                                                                                  Undivided
+                                                                                   Share of
+                                                          Share in                land and
+                 Plot/                          Carpet
+                         Tower/                           exclusive   Share in   Interest in
+ Details       Apartment             Floor      Area in               Common     the project
+                          Phase                           Common        Area
+                Number                          sq.mtr
+                                                            Area                      (in
+                                                                                  percentag
+                                                                                  e or sq.ft)
+ Present
+ Details as
+ per
+ agreement
+
+ Change
+ due to
+ modificatio
+ n
+
+
+      (*Please insert as nil, if there is no change, NA if not applicable)
+
+5.    I/We would further like to bring to your attention that due to the proposed
+modification, the project is now expected to be completed on or before
+……………………….. As a result of modification of the plan the time for completion
+will not undergo any change.
+                                          Or
+As a result of the modification the time for completion of the project will be
+extended by …………………. months and I/we will take necessary steps to get the
+time for completion extended as per the provisions of the Act and will fulfil my/our
+contractual obligations in respect of your apartment.
+6.    I/we request your co-operation in this regard. I/we request you to sign a
+copy to this letter and send it back to me/us, acknowledging the information being
+given to you regarding the proposed modification of the sanctioned building plan
+for the project and giving your consent for the same, which shall be treated as
+consent under section 14(2) (ii) of the Act, to enable us to do the needful.
+
+        Thanking you,
+
+        For ……………………………………
+
+        (Authorised Signature)
+
+(person named as authorized signatory in the application to the Karnataka Real
+Estate Regulatory Authority)
+
+[Page 61]
+                                            61
+READ AND ACCEPTED:
+
+            I/we …………………………………. S/o / D/O ……………………. aged
+about ……….. years am the buyer who has booked a plot/apartment/row
+house/villa in the project namely ……………………… situated at ……………… I/we
+am / are aware that there will be modification of the plan sanction of the project
+and I/we have no objection for the proposed modification of plan sanction of project
+which is not in contravention to the provisions of the Real Estate (Regulation and
+Development) Act, 2016 and the Karnataka real estate (Regulation and
+Development) Rules, 2017.
+
+
+                                        Signature of the allottee /Joint allottee
+
+
+                                                 Name:
+                                                 Apartment No:
+                                                 Floor No:
+                                                 Block / Tower No:
+
+                                             FORM-U
+                     (see clause (xiii) of sub-regulation (1) of regulation 3)
+
+                     APPLICATION FOR CHANGE IN PROJECT NAME
+
+
+To,
+
+Karnataka Real Estate Regulatory Authority,
+
+      Sub: Application for change in Project Name
+
+Ref:
+Project Name:
+Promoter Name:
+Project Acknowledgment No:
+Project Registration No:
+
+Dear Sir,
+
+      With reference to the above mentioned subject, I/we would like to apply for
+the Authority’s approval for change in the Real Estate Project Name as per the
+following details:
+
+[Page 62]
+                                          62
+                                Current Project Name
+ Project Name
+ Acknowledgment/Registration No.
+
+                                Proposed project Name
+ Project Name
+
+
+      I/ we would like to submit that___________________ (give reasons for seeking
+change of project name in brief), because of which bonafide reason, it has become
+necessary for us to seek for change of Project Name.
+
+            I/we solemnly affirm and declare that the particulars given herein are
+correct to my/our knowledge and belief.
+
+Date:
+Place:
+
+
+                                                      Yours faithfully,
+
+                                                Name, Signature and Seal of
+                                            The Promoter/Authorized Signatory
+
+                                       FORM - V
+                   (see clause (xiv) of sub-regulation (1) of regulation 3)
+
+                      APPLICATION FOR CHANGE IN PROMOTER
+
+
+To,
+
+The Karnataka Real Estate Regulatory Authority
+
+
+Sir,
+
+             I/we apply herewith for your approval to transfer or assign my/our
+majority rights and liabilities in respect of real estate project to a third party with
+following details;
+
+ 1       Registration number:
+ 2       Promoter details:
+         Name
+         Organization type
+         Address
+         Contact details
+         Email ID
+
+[Page 63]
+R.N.I. No. KARBIL/2001/47147 POSTAL REGN. No. RNP/KA/BGS/2202/2017-19
+Licensed to post without prepayment WPP No. 297
+
+
+                                                                        63
+        3        Third Party details (Proposed Promoter):
+                 Name
+                 Organization type
+                 Address
+                 Contact details
+                 Email ID
+
+
+           I/We hereby declare that the details furnished above are true and correct to
+      the best of my/our knowledge and belief and I/We undertake to inform you of any
+      changes therein immediately.
+
+           I/We declare that there is no pending case before any Court/NCLT/ or any
+      authorized body regarding transfer of promoter/ my rights and liabilities with
+      respect to this project.
+
+           I/We declare that there is no bar, in transfer of the rights and liabilities to a
+      third party, from any of the financial institutions or financers who have a charge
+      on the project.
+
+           I/We further declare that is no prohibition order passed by any court of law
+      against transfer of the present project to a third party.
+
+      Thanking you,
+                                                                                        Yours faithfully,
+                                                                                   Signature of the authorized
+                                                                                         Representative
+                                                                                          (with stamp)
+      Date:
+      Place:
+
+
+                                                                             By Order and in the name of the
+                                                                                 Governor of Karnataka,
+
+
+                                                                                    (HEMAVATHI)
+                                                                        Under Secretary to Government (RERA),
+                                                                                Housing Department.
+
+
+
+
+                        ಮುದ ಕರು ಾಗೂ ಪ ಾಶಕರು:- ಸಂಕಲ ಾ          ಾ ಗಳ , ಕ ಾ ಟಕ ಾಜ ಪತ , ಸ ಾ   ೇಂದ ಮುದ ಾಲಯ,   ೆಂಗಳ ರು
+
+                                                                                                   SUNIL GARDE   Digitally signed by SUNIL GARDE
+                                                                                                                 Date: 2022.10.28 17:49:40 +05'30'
+

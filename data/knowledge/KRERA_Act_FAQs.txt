@@ -1,0 +1,906 @@
+SOURCE: Karnataka RERA - FAQs on the RERA Act (K-RERA website; PDF dated 2017). Original: KRERA_Act_FAQs.pdf. Text extracted from the PDF text layer.
+
+[Page 1]
+                                                                           Ministry of Housing & Urban Poverty Alleviation
+                                                                                         Government of India
+
+
+
+
+                                                                       Real Estate (Regulation and Development)
+                                                                                       Act, 2016
+
+
+
+                                                                         FREQUENTLY ASKED QUESTIONS (FAQs)
+
+
+
+
+                      Joint Secretary (Housing)
+Ministry of Housing & Urban Poverty Alleviation, Government of India
+        Room No.114-C, Nirman Bhawan, New Delhi - 110011
+               Tel: 011-23061665; Fax: 011-23061497
+                   E-mail: jshousing-mupa@gov.in
+                     Website: http://mhupa.gov.in
+
+[Page 2]
+    Ministry of Housing & Urban Poverty Alleviation
+                  Government of India
+
+
+
+
+Real Estate (Regulation and Development)
+                Act, 2016
+
+
+
+       FREQUENTLY ASKED QUESTIONS (FAQs)
+
+[Page 3]
+Disclaimer:
+
+The Frequently Asked Questions (FAQs) and the responses therein are for general information and
+guidance only. These questions and responses have been framed keeping in view possible doubts
+that may arise and are not based on individual cases; therefore, it is not to be taken as a final view of
+the Ministry of specific legal interpretation of the extant provisions of the Real Estate (Regulation and
+Development) Act, 2016.
+
+[Page 4]
+                            Real Estate (Regulation and Development) Act, 2016 – Frequently Asked Questions (FAQ)
+
+
+                                            STATUS:
+
+1.   What is the status of the Act?
+     The Real Estate Bill was passed by the Rajya Sabha on 10th March, 2016 and the Lok
+     Sabha on 15th March, 2016. The Bill as passed by the Parliament was assented to by the
+     Hon’ble President on 25th March, 2016. The Act as assented to by the Hon’ble President
+     was published in the Official Gazette on 26th March, 2016 for public information.
+
+2.   When did the Act come into force?
+     Section 2, sections 20 to 39, sections 41 to 58, sections 71 to 78 and sections 81 to 92
+     were notified by the Central Government to come into effect from 1st May, 2016.
+
+3.   Why have some sections of the Act not been notified yet?
+     Some sections of the Act have not been notified yet, as the institutional structures, namely
+     the establishment of the Regulatory Authority and the Appellate Tribunal are necessary
+     prior to their enforcement. For e.g. projects can only be sold after they are registered with
+     the Authority, thus, in the absence of the same there would be a vacuum.
+
+4.   When would the remaining sections of the Act come into force?
+     Sections 20 and section 43 provides that the Authority and the Appellate Tribunal need to
+     be established within 1 year of the commencement of the Act. As the said sections were
+     notified for commencement on 1st May, 2016 the Authority and the Appellate Tribunal are
+     required to be established maximum by 30th April, 2017. Sections of the Act which have
+     not been notified yet, would be notified maximum upon the expiry of that period.
+
+                             OBJECTS AND REASONS:
+
+5.   What was the need for a regulatory law for the real estate sector?
+     The real estate sector has grown in the recent years but has largely been unregulated
+     from the perspective of consumer protection. Though, consumer protection laws are
+     available, the recourse available therein are only curative, but not preventive. This has
+     affected the overall potential growth of the sector due to absence of professionalism and
+     standardization.
+
+6.   What are the objects and reasons for which the Act has been framed?
+     The Real Estate Act is intended to achieve the following objectives:
+     a) ensure accountability towards allottees and protect their interest;
+     b) infuse transparency, ensure fair-play and reduce frauds & delays;
+     c) introduce professionalism and pan India standardization;
+     d) establish symmetry of information between the promoter and allottee;
+     e) imposing certain responsibilities on both promoter and allottees;
+     f)  establish regulatory oversight mechanism to enforce contracts;
+
+                                                                                                               1
+
+[Page 5]
+     g)   establish fast- track dispute resolution mechanism;
+     h)   promote good governance in the sector which in turn would create investor
+          confidence.
+
+                             CHAPTER I - PRELIMINARY
+
+7.   Who is the ‘appropriate Government’ as per the Act?
+     Section 2(g) of the Act defines ‘appropriate Government’ to mean as follows:
+     (i) for the Union territory without Legislature, the Central Government;
+     (ii) for the Union territory of Puducherry, the Union territory Government;
+     (iii) for the Union territory of Delhi, the Central Ministry of Urban Development;
+     (iv) for the State, the State Government.
+
+8.   What are the important responsibilities of the appropriate Government?
+     a) As per section 84 the appropriate Government is required to notify Rules for the
+        implementation of the Act, within six months of its commencement.
+     b) As per section 20 the appropriate Government is required to establish the Regulatory
+        Authority within 1 year from its commencement i.e. maximum by 30th April, 2017.
+     c) As per section 20 the appropriate Government is required to designate an officer
+        (preferably Housing Secretary) as interim Regulatory Authority, until the establishment
+        of a full time Regulatory Authority.
+     d) As per section 43 the appropriate Government is required to establish the Appellate
+        Tribunal within 1 year from its commencement i.e. maximum by 30th April, 2017.
+     e) As per section 43 the appropriate Government is required to designate an existing
+        Appellate Tribunal (under any other law in force) to be the Appellate Tribunal, until
+        the establishment of a full time Appellate Tribunal.
+     f) The Chairperson and Members of the Regulatory Authority and the Members of the
+        Appellate Tribunal are required to be appointed based on recommendations of a
+        Selection Committee, thus the appropriate Government is required to constitute the
+        Selection Committee.
+     g) As per section 28 and section 51 the appropriate Government is required to appoint
+        officers and other employees of Regulatory Authority and the Appellate Tribunal.
+        In addition, it is required to identify office space etc. and other infrastructure for its
+        functioning.
+     h) As per section 41 the Central Government (i.e. the Ministry of HUPA) is required to
+        establish the Central Advisory Council.
+     i) As per section 75 the appropriate Government is required to constitute a ‘Real
+        Estate Regulatory Fund’.
+
+
+
+
+2
+
+[Page 6]
+                             Real Estate (Regulation and Development) Act, 2016 – Frequently Asked Questions (FAQ)
+
+
+9.    Does the definition of ‘promoter’ include public bodies such as Development
+      Authorities and Housing Boards?
+      The Act covers all bodies (private and public) which develop real estate projects for sale to
+      the general public. Section 2(zk) defines the term ‘promoter’ which includes both private
+      and public real estate promoters. Thus, both Development Authorities and the Housing
+      Boards, when involved in sale are covered under the Act.
+
+10.   Does the definition of ‘promoter’ include all promoters in case of joint
+      development?
+      As per the Explanation to section 2(zk) “where the person who constructs or converts a
+      building into apartments or develops a plot for sale and the persons who sells apartments
+      or plots are different persons, both of them shall be deemed to be the promoters and shall
+      be jointly liable as such for the functions and responsibilities specified, under this Act or
+      the rules and regulations made thereunder”.
+
+11.   What is the rate of interest payable in case of default by the ‘promoter’ or the
+      ‘allottee’? Is the rate of interest payable by either party (promoter or allottee) the
+      same?
+      As per the Explanation to section 2(za) the rate of interest payable by either the promoter
+      or the allottee shall be the same. The rate of interest is required to be specified by the
+      appropriate Government in the Rules.
+
+12.   Does advertisement include solicitation by emails and sms? Is issuance of
+      prospectus considered to be a case of ‘advertisement’?
+      As per section 2(b), which defines ‘advertisement’ any medium adopted in soliciting for
+      sale would be covered under the said definition, including sms and emails.
+
+13.   Does the term ‘allottee’ include secondary sales?
+      As per section 2(d) an allottee includes a person who acquires the said ‘apartment / plot’
+      through transfer or sale, but does not include a person to whom such plot, apartment is
+      given on rent.
+
+14.   Is ‘open parking areas’ a part of ‘common areas’?
+      Section 2(n) defines ‘common areas’ to include ‘open parking areas’, thus open parking
+      areas cannot be sold to the allottees.
+
+15.   Is ‘community and commercial facilities’ which are provided in a real estate project
+      are part of ‘common areas’?
+      Section 2(n) defines ‘common areas’ to include ‘community and commercial facilities’,
+      thus they are an integral part of the project, to be handed over to the Association of
+      Allottees.
+
+
+                                                                                                                3
+
+[Page 7]
+16.   What happens in case of jurisdictions (States/UTs) which do not provide for both
+      the ‘occupancy certificate’ and the ‘completion certificate’?
+      Section 2(zf) and section 2(q) respectively, define ‘occupancy certificate’ and ‘completion
+      certificate’. The two definition are very broad and uses the term ‘by whatever name called’.
+      Thus, if in a State/UT only one certificate is issued which provides for both the aspects
+      covered under the two definitions, it would suffice the requirements under the Act.
+
+17.   What is the difference between the term ‘completion certificate’ and ‘occupancy
+      certificate’?
+      Section 2(zf) and section 2(q) respectively, define ‘occupancy certificate’ and ‘completion
+      certificate’. Occupancy certificate relates to the occupation of the apartment/building,
+      which has provision for civic infrastructure such as water, sanitation and electricity and is
+      habitable. Completion certificate relates to the completion of the entire project certifying
+      that the project has been developed according to the sanctioned plan, layout plan and
+      specifications, as approved by the competent authority.
+
+18.   The Act defines ‘estimated cost of the real estate project’, what is the significance
+      of the definition?
+      Section 2(v) defines ‘estimated cost of the real estate project’, which means “the total
+      cost involved in developing the real estate project and includes the land cost, taxes, cess,
+      development and other charges”. The determination of the estimated cost of the real
+      estate project is necessary due to Chapter VIII of the Act, which provides that penalties
+      would be imposed on the promoter, for violations prescribed under the Act, based on the
+      estimated cost of the real estate project.
+
+19.   What is the definition of ‘garage’ and can it be sold by the promoter independent
+      of an ‘apartment’?
+      Section 2(y) defines the term ‘garage’, which can be sold to the allottee independent of
+      the ‘apartment’.
+
+20.   What is the definition of ‘real estate project’? Does the term ‘project’ connote a
+      ‘real estate project’?
+      The term ‘real estate project’ has been defined under section 2(zn) and the term ‘project’
+      has been defined under section 2(zj), which have been interchangeably used under the
+      Act.
+
+21.   Are real estate agents covered under the Act? Does the term ‘real estate agents’
+      include web-portals engaged in selling of apartments or plots?
+      Section 2(zm) defines the term ‘real estate agents’, which is a very broad and inclusive
+      definition and covers all from of agencies involved in sale and purchase of projects,
+      registered under the Act. Consequently, web-portals etc. engaged in selling plots or
+
+4
+
+[Page 8]
+                             Real Estate (Regulation and Development) Act, 2016 – Frequently Asked Questions (FAQ)
+
+
+      apartments are also covered under the Act and are required to comply with the duties
+      and responsibilities as provided therein including under the Rules and regulations made
+      thereunder.
+
+22.   What happens in case a term is used under the Act but has not been defined?
+      Section 2(zr) is an omnibus definition which provides that terms which have not been
+      defined under the Act or the Rules and Regulations made thereunder, would have the
+      same meaning as respectively assigned to them under the relevant Municipal laws or
+      under any law for the time being in force.
+
+         CHAPTER II - REGISTRATION OF PROJECT AND AGENTS
+
+23.   Does the Act cover both residential and commercial real estate?
+      The Act covers both residential and commercial real estate. Section 2(e) defines ‘apartment’
+      and section 2(j) defines ‘building’ which include both residential and commercial real
+      estate.
+
+24.   Does the Act cover ongoing / incomplete projects?
+      As regards the ambit of the Act, there is no distinction between an ongoing project and
+      a future project, i.e. both ongoing / incomplete projects and future projects are covered
+      under the Act.
+      Section 3(1) first proviso provides that promoters of ‘all ongoing projects which have
+      not received completion certificate will need to register their project with the Regulator
+      Authority, within 3 months of its commencement’.
+
+25.   Does the Act cover all projects in urban areas and in rural areas?
+      Section 3(1) provides that all projects within a ‘planning area’ will require to be registered
+      with the Authority. ‘Planning Area’ has been defined under section 2(zh).
+      However, section 3(1) second proviso gives powers to the Authority ‘in the interest of
+      allottees’ to order / direct the promoter to register projects beyond the planning area,
+      which has the requisite permission of the local authority.
+
+26.   Which projects are exempt from the ambit of the Act?
+      As per section 3(2) the following projects do not require to be registered under the Act:
+      (a) where the area of land proposed to be developed does not exceed five hundred
+      square meters or the number of apartments proposed to be developed does not exceed
+      eight, inclusive of all phases;
+      (b) where the promoter has received completion certificate for a real estate project prior
+      to commencement of this Act;
+      (c) for the purpose of renovation or repair or re-development which does not involve
+      marketing, advertising selling or new allotment of any apartment, plot or building, as the
+
+                                                                                                                5
+
+[Page 9]
+      case may be, under the real estate project.
+
+27.   At what stage can a promoter start to advertise his project for sale?
+      The promoter can advertise his project for sale after the project has been registered with
+      the Regulatory Authority as provided in section 3(1).
+
+28.   What are the details to be furnished at the time of application for registration of
+      real estate project with the Regulatory Authority?
+      Section 4 of the Act provides for details / information and undertaking to be provided by
+      the promoter to the Authority for registration of the project. The mechanism for registration
+      i.e. the requisite forms to be filled, the fees to be paid etc. are to be determined by the
+      Rules made by the appropriate Government.
+
+29.   What are the formalities for the registration of a real estate project with the
+      Regulatory Authority?
+      The promoter is required to make an application as per Form and fees prescribed by the
+      Rules made by the appropriate Government, along with the documents / information and
+      undertaking specified in section 4 to the Authority for registration of the project. In addition,
+      the promoter is also required to append other / additional documents / information as
+      specified in the Rules.
+
+30.   In how many days is the Regulatory Authority required to register the real estate
+      project?
+      The Regulatory Authority is required to register the project, if in compliance with the Act
+      and the Rules and Regulations, within 30 days of the application having been received
+      by the Authority.
+
+31.   What in case the application for registration of the real estate project is
+      incomplete?
+      If the application for the registration of the project is not complete as required under
+      the Act or the Rules and Regulations made thereunder, the Authority may grant an
+      opportunity to the promoter to complete the application in all respects. However, in case
+      of non-compliance the Authority has the power to reject the application, only after giving
+      an opportunity to the promoter of being heard.
+
+32.   Is there a provision for deemed registration of a real estate project in case the
+      Regulatory Authority does not respond to the application?
+      Section 5 of the Act provides that the Authority has to decide on the application within
+      30 days of its receipt. It further provides that in case the Authority fails to take a decision
+      within the said period of 30 days the project shall be deemed to be registered.
+
+
+
+6
+
+[Page 10]
+                             Real Estate (Regulation and Development) Act, 2016 – Frequently Asked Questions (FAQ)
+
+
+33.   What is the period of validity of registration granted to a real estate project by the
+      Regulatory Authority?
+      As per section 4, the validity of the registration granted to a project shall be the period
+      declared by the promoter under section 4(2)(l)(C), at the time of making the application
+      for registration, within which he would complete the project.
+
+34.   Is the promoter required to maintain an ‘escrow account’ or a ‘separate account’?
+      Is a ‘separate account’ to be maintained for every project or it can be for one or
+      more projects? What are the purposes for which the promoter can withdraw the
+      money from the separate account?
+      Section 4(2)(l)(D) provides that the promoter shall maintain a ‘separate account’ for every
+      project undertaken by him wherein seventy percent of the money received from the
+      allottees shall be deposited for the purposes of construction and land cost. The account
+      has to be self maintained and is not an escrow account requiring the approval of the
+      Authority for withdrawal.
+      Section 4(2)(l)(D) clearly provides that the funds can only be used for construction and
+      land cost.
+
+35.   On what basis is the promoter required to withdraw the money from the separate
+      account?
+      As per section 4(2)(l)(D) first and second proviso, the promoter is required to withdraw
+      the amounts from the separate account, to cover the cost of the project, in proportion
+      to the percentage of completion of the project. In addition, the promoter is permitted to
+      withdraw from the separate account after it is certified by an engineer, an architect and a
+      chartered accountant in practice that the withdrawal is in proportion to the percentage of
+      completion of the project:
+
+36.   Is the promoter required to get his accounts audited?
+      As per section 4(2)(l)(D) third proviso, the promoter is required to get his accounts
+      audited within six months after the end of every financial year by a chartered accountant
+      in practice, and shall produce a statement of accounts duly certified and signed by such
+      chartered accountant and it shall be verified during the audit that the amounts collected
+      for a particular project have been utilized for the project and the withdrawal has been in
+      compliance with the proportion to the percentage of completion of the project.
+
+37.   Is the application for registration of a real estate project, proposed under the Act is
+      manual or it can also be done online?
+      Section 4 envisages that for a period of one year the application process can be both
+      manual and online based, however, after one year it is mandatory to make the entire
+      process online.
+      However, for the purposes of project information to the prospective consumers, it would
+
+                                                                                                                7
+
+[Page 11]
+      help in establishing the web portal at the earliest.
+
+38.   Can the period of registration granted to a real estate project by the Regulatory
+      Authority be extended? What is the definition of force majeure?
+      Section 6 envisages two situations within which the registration granted to a project
+      can be extended. Extension of registration can be granted in case of force majeure, in
+      addition, it can also be granted under reasonable circumstances, without the fault of the
+      promoter, which shall not be more than a maximum period of 1 year.
+      Explanation to section 6 has defined force majeure to mean ‘a case of war, flood, drought,
+      fire, cyclone, earthquake or any other calamity caused by nature affecting the regular
+      development of the real estate project’.
+
+39.   What are the terms and conditions for extension of registration?
+      The terms and conditions, the application form and the fees payable for extension of
+      registration shall be in the manner as prescribed by the Rules.
+
+40.   Can the registration of a project be revoked?
+      As per section 7 the Authority has the powers to revoke registration of a project, for
+      violations specified under the said section. However, revocation of registration of a
+      project is envisaged as a last resort and can only be done after providing a reasonable
+      opportunity of being heard.
+
+41.   What are the next steps that can be taken for project completion in case of
+      revocation of a project?
+      In case a project is revoked, section 8 provides for various mechanisms in which the
+      project can be completed. However, in such a scenario, the association of allottees shall
+      have the first right of refusal for carrying out the remaining development works.
+
+42.   Does the Act also cover real estate agents? What are the duties and responsibilities
+      of the real estate agents?
+      Section 9 of the Act provides that real estate agents which engage in selling projects
+      registered under the Act, can only do so after registering themselves with the Authority.
+      The mechanisms for registration, the fees payable, the period of registration, subsequent
+      renewal etc. are matters to be detailed vide the Rules.
+      Section 10 of the Act provides for detailed functions and duties of real estate agents.
+
+
+
+
+8
+
+[Page 12]
+                             Real Estate (Regulation and Development) Act, 2016 – Frequently Asked Questions (FAQ)
+
+
+          CHAPTER III - FUNCTIONS AND DUTIES OF PROMOTER
+
+43.   What are the important functions and responsibilities of the promoter after
+      registration of the project with the Authority?
+      As per section 11 of the Act, the promoter is required to update all project information as
+      furnished at the time of application (as provided under section 4) on the website of the
+      Authority. In addition, section 11 also provides for certain information, which needs to be
+      regularly (quarterly) updated by the promoter, in order to make an informed choice by the
+      buyer.
+      In addition, the promoter is required to carry out all the responsibilities as envisaged under
+      section 11 at various stages of development of the project and upon its completion.
+
+44.   What are the disclosures to be made on the website of the Regulatory Authority?
+      Section 4 and section 11 provide for a detailed list of disclosures on the website of the
+      Authority by the promoter for public viewing. Also, the detailed list is required to be
+      specified in the Rules.
+
+45.   What is the promoter’s obligations regarding veracity of the advertisement or
+      prospectus?
+      As per section 12 the promoter is responsible for the veracity of all information contained
+      in the advertisement and the prospectus. In case of any loss sustained by any person
+      due to false information contained therein, the promoter is liable to make good the loss
+      sustained due to the same.
+
+46.   Can the promoter collect any amount of money towards booking of the apartment
+      / plot?
+      Section 13 provides that the promoter cannot accept a sum more than 10 percent of the
+      apartment / plot cost as an advance payment / application fees. For any further collection
+      towards the apartment / plot cost, the promoter is required to enter into an ‘Agreement
+      for Sale’ with the allottee.
+
+47.   What is the ‘Agreement for Sale’ and is it binding on the ‘promoter’ and the
+      ‘allottee’?
+      As per section 13(2) the appropriate Government is required to specify through Rules
+      the ‘Agreement for Sale’ to be entered into between the promoter and the allottee. This
+      Agreement is binding on the parties, however, internal flexibility could be provided in
+      the said Agreement for Sale, for determination / insertion of other provisions as decided
+      between the parties.
+
+
+
+
+                                                                                                                9
+
+[Page 13]
+48.   Can the promoter modify / amend the sanctioned plans or project specifications
+      after having been approved by the competent authority and disclosed to the
+      allottees?
+      As per section 14 of the Act the promoter can only modify / amend the sanctioned plans
+      or project specifications, after the approval of the competent authority and its disclosure
+      to the allottees, in case of minor additions or alterations.
+      However, in case of major modification / alteration, the promoter can modify the
+      sanctioned plans or project specification only after having taken approval from two-third
+      of the allottees. In addition, for arriving at the number of two-third allottees, the number
+      of apartments held by the promoter will be excluded. Also, irrespective of the number of
+      apartments held by an allottee he/she shall only be entitled to one vote.
+
+49.   What is the period for which the promoter is liable for any structural defects etc. in
+      the project / apartment etc.?
+      As per section 14(2) the promoter shall be liable for 5 years form the date of handing over
+      of possession to the allottee towards structural defect or any other defect as specified
+      therein.
+
+50.   What is the obligation of the promoter as regard transfer of the project to a third
+      party?
+      As per section 15 the promoter is not entitled to transfer or assign his majority rights and
+      liabilities in the project to a third party, without obtaining the prior written consent of two-
+      third of allottees and the Regulatory Authority.
+      In addition, for arriving at the number of two-third allottees, the number of apartments
+      held by the promoter will be excluded. Also, irrespective of the number of apartments
+      held by an allottee he/she shall only be entitled to one vote.
+
+51.   What is the obligation of the promoter as regards insurance of real estate
+      project?
+      As per section 16 the promoter is required to seek an insurance of the real estate project
+      towards title of the land and towards construction of the project.
+      However, the said section provides that this provision shall only come into effect after and
+      in the manner as may be notified by the appropriate Government.
+
+52.   What is the obligation of the promoter as regards transfer of title of the apartment
+      / plot?
+      Section 17 of the Act provides for detailed provisions regarding transfer of title of
+      the apartment and the project to the allottee and to the association of the allottees
+      respectively.
+
+
+
+
+10
+
+[Page 14]
+                             Real Estate (Regulation and Development) Act, 2016 – Frequently Asked Questions (FAQ)
+
+
+53.   What is obligation of the promoter towards return of amount and compensation to
+      the allottee?
+      Section 18 of the Act provides for provisions as regards various situations in which the
+      allottee would be compensated by the promoter due to delay in completion of the project
+      etc.
+
+             CHAPTER IV - RIGHTS AND DUTIES OF ALLOTTEES
+
+54.   What are the rights and duties of the allottees under the Act?
+      Section 19 provides for the various rights of the allottees. This section specifies various
+      rights which the allottees have against the promoters including those which the promoters
+      are liable to fulfill based on the agreement entered into with the allottees, namely – stage-
+      wise schedule of completion of the project and the services, claim timely possession of
+      the apartment / plot, entitlement to necessary documents and plans etc.
+      Section 20 provides for the various duties of the allottees, which provide for matters
+      relating to payment regarding the apartment / plot, liability towards interest for delay in
+      payment, responsibility to take possession, participate in formation of association etc.
+
+       CHAPTER V - THE REAL ESTATE REGULATORY AUTHORITY
+
+55.   What is the timelines for establishment of the Regulatory Authority?
+      As per section 20 the Regulatory Authority is required to be established within 1 year of
+      the commencement of the said section. As section 20 has been notified with effect from
+      1st May, 2016, the Authority is required to be established maximum by 30th April, 2017.
+      However, for speedy implementation of the Act, section 20 empowers the ‘appropriate
+      Government’ to appoint an interim Regulatory Authority, until the establishment of the full
+      time Authority.
+
+56.   How are the Chairman and the Members of the Authority required to be
+      appointed?
+      As per section 22 the Chairman and the Members of the Authority are required to be
+      appointed by the appropriate Government on the recommendations of a Selection
+      Committee comprising of the Chief Justice of the High Court (or his nominee), the Housing
+      Secretary and the Law Secretary. The section also provides for the qualification etc. that
+      are required for the appointment of the Chairman and the Members.
+
+57.   What are the important responsibilities of the ‘Regulatory Authority’?
+      Apart from the day to day implementation of the Act and the Rules and Regulations made
+      thereunder the immediate responsibility of the Regulatory Authority are:
+      a) Registration of the real estate project and the real estate agent;
+      b) Extension of registration of the real estate project and its revocation;
+
+                                                                                                               11
+
+[Page 15]
+      c)   Renewal of registration of the real estate agent and its revocation;
+      d)   As per section 34 the Authority is responsible to to maintain a website of records for
+           public viewing of –
+            all projects registered with the Authority including details of projects as specified
+               in the Act and the rules and regulations - to be disclosed on the website;
+            details of promoters with photographs of promoters;
+            details of projects in case of revocation of registration or where any project
+               penalized under the Act;
+            details of agents registered under the Act including his photograph and also of
+               those agents whose registration has been revoked.
+      e)   As per section 71 the Authority is required to appoint one or more ‘adjudicating
+           officer’ in consultation with appropriate Government.
+      f)   As per section 85 the Regulatory Authority is required to notify Regulations within 3
+           months of establishment.
+      g)   As per section 32 the Regulatory Authority is also required to make recommendations
+           on various matters for the growth and promotion of a healthy, transparent, efficient
+           and competitive real estate sector.
+
+58.   How can a complaint be filed with the Authority for any violations under the Act?
+      Section 31 of the Act provides for filing of complaint by an aggrieved with the Regulatory
+      Authority. The form and manner and the fees payable for filing the complaint are to be
+      specified by Rules to be made by the appropriate Government.
+
+59.   What is the time period within which the Authority is required to dispose of any
+      matter that is brought to it for consideration?
+      Section 29 provides that the Authority should endeavour to dispose of the questions /
+      complaints as expeditiously as possible but not later than sixty days from the date of filing
+      the same. However, where it could not be disposed of during the said period the Authority
+      is required to record its reasons for the same.
+
+                 CHAPTER VI - CENTRAL ADVISORY COUNCIL
+
+60.   What is the composition of the Central Advisory Council?
+      The Central Advisory Council, to be headed by the Union Minister for Housing, is a
+      multi-member body comprising of representatives of specified Central Ministries, five
+      representatives of State Governments to be selected by rotation, five representatives
+      of Regulatory Authorities to be selected by rotation and any other central government
+      department as notified.
+      The Central Advisory Council is also required to have representatives of consumers,
+      real estate industry, real estate agents, construction labourers, NGOs, and academic /
+      research institutions.
+
+12
+
+[Page 16]
+                             Real Estate (Regulation and Development) Act, 2016 – Frequently Asked Questions (FAQ)
+
+
+61.   What is the role and responsibility of the Central Advisory Council?
+      The Central Advisory Council is required to advise the Central Government on matters
+      relating to implementation of the Act, questions of policy, protection of consumer interest,
+      foster growth and development of the real estate sector, and other matters as may be
+      assigned to it by the Central Government.
+
+         CHAPTER VII - THE REAL ESTATE APPELLATE TRIBUNAL
+
+62.   What is the timelines for establishment of the Appellate Tribunal under the Act?
+      As per section 43 of the Act, the Appellate Tribunal is required to be established within 1
+      year of of the commencement of section 43. As section 43 has been notified with effect
+      from 1st May, 2016, the Appellate Tribunal is required to be established maximum by 30th
+      April, 2017.
+      However, for speedy implementation of the Act, section 43 empowers the ‘appropriate
+      Government’ to designate an existing Appellate Tribunal (under any other law in force) to
+      function as an Appellate Tribunal under the Act.
+
+63.   What are the important responsibilities of the Appellate Tribunal?
+      The Appellate Tribunal is a quasi-judicial body, which is empowered to hear appeals from
+      the orders / decisions / directions of the Regulatory Authority or the Adjudicating Officer,
+      as the case may be. The form and manner and the fees payable towards filing the appeal
+      and the manner for hearing and disposing the appeal are to be provided by Rules to be
+      made by the appropriate Government.
+
+64.   Can an appeal be filed against the decision or the orders of the Appellate
+      Tribunal?
+      Any person aggrieved by the decision or order of the Appellate Tribunal can file and
+      appeal with the High Court.
+
+65.   What is the time period within which the Appellate Tribunal is required to dispose
+      of the appeal?
+      Section 44 provides that the Appellate Tribunal should endeavour to dispose of the appeal
+      as expeditiously as possible but not later than sixty days from filing the appeal. However,
+      where the same could not be disposed of during the said period the Appellate Tribunal is
+      required to record its reasons for the same.
+
+66.   How are the Chairman and the Members of the Appellate Tribunal required to be
+      appointed?
+      As per section 46 the Chairman of the Appellate Tribunal shall be a sitting or retired Judge
+      of the High Court. Section 46 also provides that the Appellate Tribunal shall comprise of
+      at-least two Members one of whom shall be a Judicial Member and the other shall be a
+
+                                                                                                               13
+
+[Page 17]
+      Technical or Administrative Member.
+      As per section 46 the Members of the Appellate Tribunal are required to be appointed
+      by the appropriate Government on the recommendations of a Selection Committee
+      comprising of the Chief Justice of the High Court (or his nominee), the Housing Secretary
+      and the Law Secretary. The section also provides for the qualification etc. that are required
+      for the appointment of the Judicial / Administrative Members.
+
+       CHAPTER VIII - OFFENCES, PENALTIES AND ADJUDICATION
+
+67.   What is the punishment prescribed for non-registration of a project under the
+      Act?
+      As per section 59, where under the Act, it is obligatory for the promoter to register a
+      project with the Authority, and the promoter fails to do the same, he shall be liable to a
+      penalty upto ten percent of the estimated cost of the real estate project.
+      However, in case the promoter consistently defaults or does not comply with the directions
+      / orders of the Authority as regards registration of the project with the Authority, he shall
+      be liable to additional fine of ten percent of the estimated cost of the real estate project or
+      imprisonment upto 3 years or both.
+
+68.   What is the punishment prescribed for violation of section 4 which provides for
+      application for registration of the project?
+      As per section 60 if the promoter defaults as regards matters covered under section 4,
+      he shall be liable to a penalty upto five percent of the estimated cost of the real estate
+      project.
+
+69.   What is the punishment prescribed for violation of other provisions of the Act by
+      the promoter?
+      As per section 61 if the promoter defaults any other provision of the Act or the Rules
+      and Regulations made thereunder, he shall be liable to a penalty upto five percent of the
+      estimated cost of the real estate project.
+
+70.   What is the punishment prescribed for non-compliance of the orders of the
+      Authority by the promoter?
+      As per section 63 if the promoter fails to comply with the orders of the Authority, he shall
+      be liable to a penalty for every day of default, which may cumulative extend upto five
+      percent of the estimated cost of the real estate project.
+
+71.   What is the punishment prescribed for non-compliance of the orders of the
+      Appellate Tribunal by the promoter?
+      As per section 64 if the promoter fails to comply with the orders of the Appellate Tribunal,
+      he shall be liable to a penalty for every day of default, which may cumulative extend upto
+
+14
+
+[Page 18]
+                              Real Estate (Regulation and Development) Act, 2016 – Frequently Asked Questions (FAQ)
+
+
+      ten percent of the estimated cost of the real estate project or with imprisonment for a term
+      which may extend upto three years or with both.
+
+72.   What is the punishment prescribed for non-registration of by a real estate agent
+      under the Act?
+      As per section 62, where under the Act, it is obligatory for the real estate agent to register
+      himself with the Authority, and the real estate agent fails to do the same, he shall be
+      liable to a penalty upto of rupees ten thousand per day of default, which may cumulative
+      extend upto five percent of the cost of the plot / apartment, for which the sale has been
+      facilitated by him.
+
+73.   What is the punishment prescribed for non-compliance of the orders of the
+      Authority by the real estate agent?
+      As per section 65 if the real estate agent fails to comply with the orders of the Authority,
+      he shall be liable to a penalty for every day of default, which may cumulative extend upto
+      five percent of the cost of the plot / apartment, for which the sale has been facilitated by
+      him.
+
+74.   What is the punishment prescribed for non-compliance of the orders of the
+      Appellate Tribunal by the real estate agent?
+      As per section 66 if the real estate agent fails to comply with the orders of the Appellate
+      Tribunal, he shall be liable to a penalty for every day of default, which may cumulative
+      extend upto ten percent of the cost of the plot / apartment, for which the sale has been
+      facilitated by him or with imprisonment for a term which may extend upto one year or with
+      both.
+
+75.   What is the punishment prescribed for non-compliance of the orders of the
+      Authority by the allottee?
+      As per section 67 if the allottee fails to comply with the orders of the Authority, he shall be
+      liable to a penalty for every day of default, which may cumulative extend upto five percent
+      of the cost of the plot / apartment.
+
+76.   What is the punishment prescribed for non-compliance of the orders of the
+      Appellate Tribunal by the allottee?
+      As per section 68 if the allottee fails to comply with the orders of the Appellate Tribunal,
+      he shall be liable to a penalty for every day of default, which may cumulative extend upto
+      ten percent of the cost of the plot / apartment or with imprisonment for a term which may
+      extend upto one year or with both.
+
+77.   Can an offence which provides for imprisonment be compounded?
+      As per section 70 if any person is punishable with imprisonment under the Act, the same
+      may be compounded on such terms and conditions which may be prescribed by Rules
+                                                                                                                15
+
+[Page 19]
+      made by the appropriate Government. In addition, the fine payable in lieu of imprisonment
+      needs to be specified by the said Rules, which cannot be more than the maximum fine
+      payable for that offence.
+
+78.   What is the role of the Adjudicating Officer?
+      The Adjudicating Officer is a quasi-judicial person who is mandated to adjudicate on
+      disputes arising under section 12, 14, 18 and section 19. The Adjudicating Officer shall
+      be a person who is or has been a District Judge.
+
+79.   What are the factors that need to be taken into account by the Adjudicating Officer
+      while deciding a dispute under sections 12, 14, 18 and 19 of the Act?
+      The Adjudicating Officer shall, while deciding the disputes under section 12, 14, 18 and 19
+      of the Act, have regard to – the amount of disproportionate gain or unfair advantage, the
+      amount of loss, repetitive nature of the default and such other factors that the Adjudicating
+      Officer may consider necessary in furtherance of justice.
+
+      CHAPTER IX - FINANCE, ACCOUNTS, AUDITS AND REPORTS
+
+80.   What is the mechanism to finance the functioning of the Authority?
+      The Central Government or the State Government as the case may be, may through due
+      appropriation make grants and loans to the Authority.
+
+81.   Who is required to constitute the Real Estate Regulatory Fund? What are the
+      purposes for which the Fund is supposed to be used?
+      The appropriate Government is required to constitute the Real Estate Regulatory Fund,
+      which is to be administered by a committee of such Members of the Authority as may be
+      determined by the Chairperson.
+      The said Fund is required to be used towards payment of salary and allowances to the
+      Chairperson and the Members of the Authority and the Appellate Tribunal and such other
+      expenses of the Authority in connection with the functions and purposes specified under
+      the Act.
+
+82.   Can the penalties imposed under the Act be deposited in the Real Estate Regulatory
+      Fund?
+      As per section 76 penalties recovered under the Act are to be deposited in the Consolidated
+      Fund of India (in case of Authority established by the Central Government) and in the
+      State Account (in case of Authority established by the State Government).
+      However, as per section 75, grants received by the Authority, fees received under the Act
+      / Rules and the interest accrued thereon shall be credited to the Real Estate Regulatory
+      Fund.
+
+
+
+16
+
+[Page 20]
+                             Real Estate (Regulation and Development) Act, 2016 – Frequently Asked Questions (FAQ)
+
+
+83.   Is the Authority required to prepare a budget and maintain proper accounts and
+      other relevant records? Are the accounts of the Authority required to be audited?
+      As per section 77 the Authority is required to prepare a budget and maintain proper
+      accounts and other relevant records and also prepare an annual statement of accounts
+      in the manner as may be prescribed by Rules made by the appropriate Government.
+      In addition, section 77 provides that the accounts of the Authority are required to be
+      audited by the Comptroller and Auditor General of India.
+      The accounts of the Authority as certified by the Comptroller and Auditor General of India
+      (audit report) is required to be forwarded to the appropriate Government for it to be laid
+      before the Parliament or the State Legislature, as the case may be.
+
+84.   Is the Authority required to prepare an Annual Report?
+      As per section 78 the Authority is required to prepare an Annual Report in the manner as
+      may be prescribed by Rules made by the appropriate Government.
+      In addition, the said Annual Report is required to be forwarded to the appropriate
+      Government for it to be laid before the Parliament or the State Legislature, as the case
+      may be.
+
+                          CHAPTER X - MISCELLANEOUS
+
+85.   Are the civil courts and consumer forums barred from entertaining disputes under
+      the Act?
+      As per section 79 of the Act civil courts are barred from entertaining disputes (suits or
+      proceedings) in respect of matters which the Authority or the adjudicating officer or the
+      Appellate Tribunal is empowered under the Act to determine. However, the consumer
+      forums (National, State or District) have not been barred from the ambit of the Act.
+      Section 71 proviso permits the complainant to withdraw his complaint as regards matters
+      under section 12, 14, 18 and section 19, from the consumer forum and file it with the
+      adjudicating officer appointed under the Act.
+
+86.   Can a complainant approach both the Regulatory Authority / adjudicating officer
+      and the consumer forums for the same disputes?
+      The laws of the country do not permit forum shopping, thus, an aggrieved can only
+      approach one of the two for disputes over the same matter.
+
+87.   Can the Authority delegate any of its functions under the Act?
+      As per section 81, the Authority is empowered to delegate such of its powers and functions
+      under the Act to any Member, officer or any other person subject to conditions specified in
+      the order issued for the same. However, the Authority cannot delegate the responsibility
+      of making Regulations under section 85 under the Act.
+
+
+
+                                                                                                               17
+
+[Page 21]
+88.   What is the timeline for notification of the Rules by the appropriate Government
+      under the Act?
+      As per section 84 of the Act, Rules are required to be prepared by the “appropriate
+      Government” within 6 months of the commencement of the Act. As section 84 commenced
+      with effect from 1st May, 2016, Rules were required to be prepared by the ‘appropriate
+      Government’ by 31st October, 2016.
+
+89.   What is the timeline for notification of the Regulations by the Authority under the
+      Act?
+      As per section 85 of the Act, Regulations are required to be notified by the ‘Regulatory
+      Authority’ within 3 months of its establishment.
+
+90.   Are the Rules, Regulations etc. notified required to laid before the Parliament or
+      the State Legislature?
+      As per section 86 every Rule, Regulation, notification issued by the appropriate
+      Government or the Authority, is required to be laid before the Parliament or the State
+      Legislature, as the case may be.
+
+91.   Does the Government have the power to issue Orders towards Removal of
+      Difficulties while implementing the Act?
+      The Central Government, under section 91, has been empowered to notify Orders
+      towards removal of difficulties while implementing the Act. However, such removal of
+      difficulties Order cannot be issued after the expiry of a period of two years since its
+      commencement.
+
+92.   Why was section 92 repealing the Maharashtra Housing (Regulation and
+      Development) Act, 2012 provided under the Act?
+      The Maharashtra Housing Act, 2012 was received for seeking presidential assent under
+      Article 254(2) of the Constitution of India, when the Real Estate Bill was not enacted.
+      For the sake of uniform application across the country, the said State Act, was repealed
+      under Article 254(2) proviso of the Constitution of India.
+
+
+
+
+18
+
+[Page 22]
+                                                                           Ministry of Housing & Urban Poverty Alleviation
+                                                                                         Government of India
+
+
+
+
+                                                                       Real Estate (Regulation and Development)
+                                                                                       Act, 2016
+
+
+
+                                                                         FREQUENTLY ASKED QUESTIONS (FAQs)
+
+
+
+
+                      Joint Secretary (Housing)
+Ministry of Housing & Urban Poverty Alleviation, Government of India
+        Room No.114-C, Nirman Bhawan, New Delhi - 110011
+               Tel: 011-23061665; Fax: 011-23061497
+                   E-mail: jshousing-mupa@gov.in
+                     Website: http://mhupa.gov.in
+
