@@ -5,6 +5,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
+import complaints  # noqa: E402
 import mcp_bridge  # noqa: E402
 import registry  # noqa: E402
 from rag import Index  # noqa: E402
@@ -36,8 +37,20 @@ check("register: fake number not found", not d["found"])
 d = registry.search_projects("Saffron Meadows", district="Bengaluru Urban")
 check("register: Saffron Meadows not found, similar listed", not d["found"] and d.get("similar_but_different_projects"))
 tools, err = mcp_bridge.list_tools()
-check("MCP server lists 3 tools" + (f" ({err})" if err else ""), not err and len(tools) == 3)
+check("MCP server lists 5 tools" + (f" ({err})" if err else ""), not err and len(tools) == 5)
 data, info = mcp_bridge.call("check_registration", {"registration_no": "PRM/KA/RERA/1251/310/PR/170915/000063"})
 check("MCP call works: " + info["via"], info["via"].startswith("MCP") and data["found"])
+s = complaints.complaints_summary()
+check("complaints: totals match the site", s["complaints_total_on_site"] == 13461 and s["recovery_certificates"] == 2694
+      and s["recovered_certificates"] == 356 and s["recovery_amount_rs"] == 12531190831)
+d = complaints.complaint_history(project_name="Mantri Webcity2B")
+check("complaints: named project found with recovery certificates",
+      d["found"] and d["complaints_against_project"]["complaints"] > 0 and d["revenue_recovery_certificates"]["against_this_project"]["certificates"] > 0)
+d = complaints.complaint_history(registration_no="PRM/KA/RERA/1251/310/PR/170915/000063")
+check("complaints: lookup by registration number uses register names", d["looked_up"]["names_from"].startswith("registration"))
+d = complaints.complaint_history(project_name="Saffron Meadows")
+check("complaints: fictional project has none, with a caution", not d["found"] and "does not prove" in d["note"])
+data, info = mcp_bridge.call("complaint_history", {"project_name": "Ozone Urbana", "promoter": "", "registration_no": ""})
+check("MCP complaint_history works: " + info["via"], info["via"].startswith("MCP") and data["found"])
 print(f"\n{ok} passed, {fail} failed")
 sys.exit(1 if fail else 0)

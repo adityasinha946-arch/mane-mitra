@@ -120,7 +120,17 @@ def build_tools(index: Index, trace: list[dict]):
         log("search_projects", args, {"found": data.get("found"), "matches": len(data.get("matches", []))}, data=data, **info)
         return data
 
-    return [search_official_sources, read_act_section, read_karnataka_rule, check_registration, search_projects]
+    def complaint_history(project_name: str = "", promoter: str = "", registration_no: str = "") -> dict:
+        """K-RERA complaint counts for a project and its promoter, revenue recovery certificates (money ordered
+        but not paid) and the complaint realization list (official K-RERA data, 7 Nov 2026). Give a registration
+        number, or a project and/or promoter name."""
+        args = {"project_name": project_name, "promoter": promoter, "registration_no": registration_no}
+        data, info = mcp_bridge.call("complaint_history", args)
+        log("complaint_history", args, {"found": data.get("found")}, data=data, **info)
+        return data
+
+    return [search_official_sources, read_act_section, read_karnataka_rule, check_registration, search_projects,
+            complaint_history]
 
 
 def _history_contents(history: list[dict]) -> list[types.Content]:
@@ -227,14 +237,40 @@ def _preload_for_question(index: Index, question: str, trace: list[dict]) -> str
     return text
 
 
+_QUOTED = _re.compile(r"(?:^|(?<=[\s(]))[\"'\u2018\u201c]([^\"\u2018\u2019\u201c\u201d]{3,80}?)[\"'\u2019\u201d](?=[\s?.,!;:)]|$)")
+_PROJECT_WORDS = _re.compile(r"regist|rera|complain|recover|track record|builder|promoter|project|check|ನೋಂದಣಿ|ದೂರು|ಬಿಲ್ಡರ್|ಯೋಜನೆ", _re.I)
+
+
+def _mcp(tool: str, args: dict, trace: list[dict]) -> dict:
+    data, info = mcp_bridge.call(tool, args)
+    trace.append({"tool": tool, "args": args, "result": {"found": data.get("found"),
+                  "matches": len(data.get("matches", []))}, "data": data, **info})
+    return data
+
+
 def _preload_registration(question: str, trace: list[dict]) -> str:
+    """Registration number or a quoted project name in the question: run the MCP look-ups in code
+    (register + complaint history), so Gemini can answer in one request."""
+    parts = []
     m = _REGNO.search(question)
-    if not m:
-        return ""
-    data, info = mcp_bridge.call("check_registration", {"registration_no": m.group(0)})
-    trace.append({"tool": "check_registration", "args": {"registration_no": m.group(0)},
-                  "result": {"found": data.get("found"), "matches": len(data.get("matches", []))}, "data": data, **info})
-    return "<register_lookup_result>\n" + json.dumps(data, ensure_ascii=False) + "\n</register_lookup_result>"
+    if m:
+        reg = _mcp("check_registration", {"registration_no": m.group(0)}, trace)
+        parts.append("<register_lookup_result>\n" + json.dumps(reg, ensure_ascii=False) + "\n</register_lookup_result>")
+        if reg.get("found"):
+            ch = _mcp("complaint_history", {"registration_no": m.group(0)}, trace)
+            parts.append("<complaint_history_result>\n" + json.dumps(ch, ensure_ascii=False) + "\n</complaint_history_result>")
+        return "\n".join(parts)
+    q = _QUOTED.search(question)
+    if q and _PROJECT_WORDS.search(question):
+        name = q.group(1).strip()
+        dist = "Bengaluru Urban" if _re.search(r"bengaluru|bangalore|whitefield|ಬೆಂಗಳೂರು", question, _re.I) else ""
+        found = _mcp("search_projects", {"project_name": name, "promoter": "", "district": dist}, trace)
+        parts.append("<register_search_result>\n" + json.dumps(found, ensure_ascii=False) + "\n</register_search_result>")
+        proms = {mm["promoter"] for mm in found.get("matches", [])} if found.get("found") else set()
+        promoter = proms.pop() if len(proms) == 1 else ""
+        ch = _mcp("complaint_history", {"project_name": name, "promoter": promoter, "registration_no": ""}, trace)
+        parts.append("<complaint_history_result>\n" + json.dumps(ch, ensure_ascii=False) + "\n</complaint_history_result>")
+    return "\n".join(parts)
 
 
 def answer(api_key: str, index: Index, question: str, history: list[dict],

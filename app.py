@@ -14,6 +14,7 @@ from pathlib import Path
 import streamlit as st
 
 import agent
+import complaints
 import mcp_bridge
 import registry
 from rag import SOURCES, Index
@@ -130,6 +131,7 @@ with st.sidebar:
         "ಬಿಲ್ಡರ್ ಮನೆ ಹಸ್ತಾಂತರವನ್ನು ತಡ ಮಾಡಿದರೆ ನನಗೆ ಯಾವ ಹಕ್ಕುಗಳಿವೆ?",
         "How much booking amount can a builder take before the agreement?",
         "Check whether 'Saffron Meadows' in Whitefield is RERA registered.",
+        "Check the RERA registration and complaint record of 'Ozone Urbana'.",
         "What is carpet area?",
     ]
     for i, q in enumerate(examples):
@@ -161,6 +163,10 @@ with st.sidebar:
             st.caption(f"• {s}: {n}")
         summ = registry.register_summary()
         st.write(f"**K-RERA register:** {summ['records']:,} records (data as of {summ['data_as_of']})")
+        cs = complaints.complaints_summary()
+        st.write(f"**K-RERA complaint records:** {cs['complaints_total_on_site']:,} complaints across "
+                 f"{cs['project_names_with_complaints']:,} project names; {cs['recovery_certificates']:,} recovery "
+                 f"certificates ({cs['recovered_certificates']} marked recovered); data as of {cs['data_as_of']}")
         if mcp_err:
             st.warning(f"MCP server not reachable, using direct lookup. {mcp_err}")
         else:
@@ -171,7 +177,7 @@ st.markdown("""
 <div class="mm-hero">
   <h1>Mane Mitra · ಮನೆ ಮಿತ್ರ</h1>
   <p>Understand your flat sale agreement before you sign. Plain English or simple Kannada, checked against official Karnataka RERA sources.</p>
-  <span class="mm-chip">📚 8 official documents</span><span class="mm-chip">🗂️ 10,096 K-RERA project records</span>
+  <span class="mm-chip">📚 8 official documents</span><span class="mm-chip">🗂️ 10,096 K-RERA project records</span><span class="mm-chip">⚖️ 13,461 complaints · 2,694 recovery orders</span>
   <span class="mm-chip">🔌 MCP registry tool</span><span class="mm-chip">🔍 shows its evidence</span>
 </div>
 """, unsafe_allow_html=True)

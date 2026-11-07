@@ -13,6 +13,7 @@ import sys
 import time
 from pathlib import Path
 
+import complaints
 import registry
 
 SERVER = Path(__file__).parent / "registry_mcp_server.py"
@@ -21,6 +22,9 @@ _DIRECT = {
     "check_registration": lambda a: registry.check_registration(a.get("registration_no", "")),
     "search_projects": lambda a: registry.search_projects(a.get("project_name", ""), a.get("promoter", ""), a.get("district", "")),
     "register_summary": lambda a: registry.register_summary(),
+    "complaint_history": lambda a: complaints.complaint_history(a.get("project_name", ""), a.get("promoter", ""),
+                                                                a.get("registration_no", "")),
+    "complaints_summary": lambda a: complaints.complaints_summary(),
 }
 
 
