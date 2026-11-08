@@ -20,9 +20,12 @@ import re
 # Used only if Google's model list cannot be read. "-latest" names always point to a current model.
 FALLBACK_MODELS = ["gemini-flash-latest", "gemini-flash-lite-latest"]
 _SKIP = ("image", "tts", "audio", "live", "embedding", "robotics", "computer", "exp", "vision", "thinking", "learnlm", "gemma", "customtools")
+# Only these models are offered: Flash 3.8, 3.7, 3.6, 3.5, Flash-Lite 3.5 and Flash-Lite 3.1 (and their preview names).
+_ALLOWED = re.compile(r"^gemini-(?:3\.8|3\.7|3\.6|3\.5)-flash(?:-lite)?(?:-preview[\w.-]*)?$|^gemini-3\.1-flash-lite(?:-preview[\w.-]*)?$")
 _model_cache: dict[str, list[str]] = {}
 _cooldown: dict[str, float] = {}  # model -> time until which it is skipped (it was busy or too slow)
 COOLDOWN_SECONDS = 120
+TOTAL_BUDGET_SECONDS = 120  # stop trying more models after this long and say 'busy' instead of waiting for minutes
 
 
 def _rank(name: str) -> tuple:
@@ -41,13 +44,13 @@ def available_models(client, api_key: str) -> list[str]:
         for m in client.models.list():
             n = (getattr(m, "name", "") or "").replace("models/", "")
             actions = getattr(m, "supported_actions", None) or []
-            if n.startswith("gemini") and "flash" in n and "generateContent" in actions and not any(s in n for s in _SKIP):
+            if _ALLOWED.match(n) and "generateContent" in actions and not any(s in n for s in _SKIP):
                 names.append(n)
     except Exception:  # noqa: BLE001
         names = []
     names = sorted(set(names), key=_rank, reverse=True)
-    # prefer an alias such as gemini-flash-latest last; keep it as a safety net
-    result = names + [x for x in FALLBACK_MODELS if x not in names]
+    # the "-latest" aliases are only a safety net when Google's list could not be read or none of the allowed models is there
+    result = names or list(FALLBACK_MODELS)
     _model_cache[api_key] = result
     return result
 
@@ -325,11 +328,14 @@ def answer(api_key: str, index: Index, question: str, history: list[dict],
     rate_limited = False
     first_real_err = ""
     skipped: list[str] = []
+    why: dict[str, str] = {}  # model -> short reason it was skipped, shown under the answer
 
     def call(m: str, thinking: bool):
         return client.models.generate_content(model=m, contents=contents, config=make_config(thinking))
 
     for m in candidates:
+        if skipped and time.time() - t0 > TOTAL_BUDGET_SECONDS:
+            break  # out of time budget: stop trying more models
         for attempt in (1, 2):  # a busy server (503) gets one quick retry before we move on
             trace.clear()
             trace.extend(pre_trace)
@@ -344,13 +350,15 @@ def answer(api_key: str, index: Index, question: str, history: list[dict],
                     else:
                         raise
                 text = (resp.text or "").strip() or "Sorry, I could not produce an answer. Please ask again in a new chat."
-                note = f" (after trying {', '.join(skipped)})" if skipped else ""
+                tried = ", ".join(s + ": " + why.get(s, "skipped") for s in skipped)
+                note = f" (after trying {tried})" if skipped else ""
                 return Turn(text, list(trace), m + note, round(time.time() - t0, 1))
             except errors.ClientError as e:
                 code = getattr(e, "code", None)
                 last_err = f"{m}: {e}"
                 if code in (400, 401, 403) and "API key" in str(e):
                     return Turn("", [], m, 0, "The Gemini API key is missing or invalid. Check the key in the app settings.")
+                why[m] = {429: "quota limit", 404: "not available", 400: "request refused"}.get(code, f"error {code}")
                 if code == 429:
                     rate_limited = True
                     first_real_err = first_real_err or f"{m}: {str(e)[:300]}"
@@ -362,7 +370,8 @@ def answer(api_key: str, index: Index, question: str, history: list[dict],
                 last_err = f"{m}: {type(e).__name__}: {str(e)[:200]}"
                 first_real_err = first_real_err or last_err
                 busy = isinstance(e, errors.ServerError)
-                if busy and attempt == 1:
+                why[m] = "busy" if busy else ("timed out" if "timeout" in type(e).__name__.lower() or "timed out" in str(e).lower() else "error")
+                if busy and attempt == 1 and time.time() - t0 < 30:
                     time.sleep(2)
                     continue
                 _cooldown[m] = time.time() + COOLDOWN_SECONDS
